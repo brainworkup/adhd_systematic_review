@@ -1,0 +1,30 @@
+---
+title: adhd_systematic_review
+authors:
+  - name: Norah Jones
+    affiliation: The University
+    roles: writing
+    corresponding: true
+bibliography: references.bib
+---
+
+## Section
+This is a simple placeholder for the manuscript's main document [@knuth84].
+
+
+adhd_systematic_review/
+├── _quarto.yml           # Project configuration
+├── index.qmd            # Project overview
+├── data/
+│   ├── raw_pdfs/        # Original PDFs
+│   ├── processed/       # Extracted text and metadata
+│   └── metadata.csv     # Study tracking spreadsheet
+├── R/
+│   ├── 01_pdf_processing.R  # PDF text extraction
+│   ├── 02_metadata_extract.R # Structured data extraction
+│   ├── 03_quality_assessment.R # Study quality metrics
+│   └── 04_analysis.R     # Final analysis scripts
+├── outputs/
+│   ├── tables/
+│   └── figures/
+└── docs/                # Generated reports

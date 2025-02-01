@@ -1,0 +1,14 @@
+study_metadata <- tibble(
+  study_id = character(),          # Unique identifier
+  citation = character(),          # Full citation
+  year = numeric(),               # Publication year
+  sample_size = numeric(),        # Total N
+  age_range = character(),        # Age range of participants
+  setting = character(),          # Clinical/community/mixed
+  diagnostic_tools = character(), # Tools used
+  comparison_method = character(), # Reference standard
+  sensitivity = numeric(),        # If reported
+  specificity = numeric(),        # If reported
+  quality_score = numeric(),      # Based on your quality metrics
+  reviewer_notes = character()    # Additional observations
+)
