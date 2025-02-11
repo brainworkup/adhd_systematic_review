@@ -1,8 +1,8 @@
 ---
-title: adhd_systematic_review
+title: Adult ADHD Systematic Review
 authors:
-  - name: Norah Jones
-    affiliation: The University
+  - name: Joey Trampush, PhD
+    affiliation: USC
     roles: writing
     corresponding: true
 bibliography: references.bib
