@@ -12,10 +12,7 @@ format:
   jats: default
 
   # (other formats)
-  # pdf: default
+  typst: default
 
 execute:
   freeze: true
-
-
-
