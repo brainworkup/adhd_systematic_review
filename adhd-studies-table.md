@@ -11,33 +11,35 @@
 7. Erhardt et al. (1999) - Self-ratings reliability and validity
 8. Faraone et al. (2000) - Symptom assessment children vs adults
 9. Gift et al. (2021) - Wender Utah Rating Scale psychometrics
-10. Houston et al. (2011) - Primary care screening instrument
-11. Kessler et al. (2010) - Adult ADHD Clinical Diagnostic Scale
-12. Kwan et al (2024) - CAARS
-13. Lancaster et al (2018) - PAI
-14. Kumar et al. (2011) - MINI, CAARS, Screening in psychiatric inpatients
-15. Lewandowski et al. (2008) - College student symptom reporting
-16. Liu et al. (2023) - Machine learning screening approach
-17. Luderer et al. (2019) - ADHD screening in alcohol dependent patients
-18. Luty et al. (2009) - Self-report validation in substance users
-19. Marchant et al. (2015) - Self-Report Wender-Reimherr Scale
-20. Mattos et al. (2018) - DSM criteria in medical students
-21. McCann & Roy-Byrne (2004) - Self-report scales utility
-22. Mehringer et al. (2002) - Assessment of Hyperactivity and Attention tool
-23. Notzon et al. (2020) - CAADID, ADHD in cannabis use disorders
-24. Palma-Álvarez et al. (2023) - MINI-Plus ADHD module validation
-25. Palmer et al. (2023) - Screening in young autistic adults
-26. Reimherr et al. (2021) - Wender Utah Rating Scale versions
-27. Reyes et al. (2019) - ASRS utility in alcoholics
-28. Singh et al. (2015) - IPDE screening questionnaire
-29. Ustun et al. (2017) - WHO Adult ADHD Self-Report Scale
-30. van de Glind et al. (2013) - ASRS in substance use disorders
-31. Van Voorhees et al. (2011) - Self and other-ratings reliability
-32. Vitola et al. (2017) - DSM-5 criteria exploration
-33. Vizgaitis et al. (2023) - Self-reported symptoms analysis
-34. Young et al. (2016) - BAARS-IV, Prison inmate screening tool
-35. Young et al. (2005) - YAQ-S and YAQ-I symptomatology
-36. Young et al. (2023) - ASSET-BS screening measure development
+10. Grogan et al (2017) - CAARS, STAI (adhd and anxiety)
+11. Harrison et al (2016) - CAARS
+12. Houston et al. (2011) - Primary care screening instrument
+13. Kessler et al. (2010) - Adult ADHD Clinical Diagnostic Scale
+14. Kwan et al (2024) - CAARS
+15. Lancaster et al (2018) - PAI
+16. Kumar et al. (2011) - MINI, CAARS, Screening in psychiatric inpatients
+17. Lewandowski et al. (2008) - College student symptom reporting
+18. Liu et al. (2023) - Machine learning screening approach
+19. Luderer et al. (2019) - ADHD screening in alcohol dependent patients
+20. Luty et al. (2009) - Self-report validation in substance users
+21. Marchant et al. (2015) - Self-Report Wender-Reimherr Scale
+22. Mattos et al. (2018) - DSM criteria in medical students
+23. McCann & Roy-Byrne (2004) - Self-report scales utility
+24. Mehringer et al. (2002) - Assessment of Hyperactivity and Attention tool
+25. Notzon et al. (2020) - CAADID, ADHD in cannabis use disorders
+26. Palma-Álvarez et al. (2023) - MINI-Plus ADHD module validation
+27. Palmer et al. (2023) - Screening in young autistic adults
+28. Reimherr et al. (2021) - Wender Utah Rating Scale versions
+29. Reyes et al. (2019) - ASRS utility in alcoholics
+30. Singh et al. (2015) - IPDE screening questionnaire
+31. Ustun et al. (2017) - WHO Adult ADHD Self-Report Scale
+32. van de Glind et al. (2013) - ASRS in substance use disorders
+33. Van Voorhees et al. (2011) - Self and other-ratings reliability
+34. Vitola et al. (2017) - DSM-5 criteria exploration
+35. Vizgaitis et al. (2023) - Self-reported symptoms analysis
+36. Young et al. (2016) - BAARS-IV, Prison inmate screening tool
+37. Young et al. (2005) - YAQ-S and YAQ-I symptomatology
+38. Young et al. (2023) - ASSET-BS screening measure development
 
 ## Neuropsychological and Cognitive Tests
 
@@ -79,31 +81,20 @@ Selectivity test
 8. Wolfers et al. (2016) - Brain activity pattern quantification
 9.  Yao et al. (2018) - Machine learning feature selection
 
-## Biomarkers
-
-1. Andrikopoulos et al. (2024) - Machine learning with physiological data
-2. Grünblatt et al. (2012) - Transcription markers in whole blood
-3. Jiminez et al (2021) - Eye vergence/oculomotor
-4. Juselius Baghdassarian et al. (2018) - Auditory brainstem response (ABR)
-5. Selek et al. (2012) - Total Antioxidative Status (TAS), Total
-Oxidative Status (TOS), and Oxidative Stress Index (OSI)
-1. Udal et al. (2024) - Neuromuscular assessment
-2. Woodruff et al. (2011) - A new blood test that measures blood cell membrane
-potential (expressed as membrane potential ratio [MPRTM])
 
 ## EEG/Electrophysiological Studies
 
 1. Biederman et al (2017) - Brain Network Activation (BNA), a novel ERP-based brain network
 analysis
 1. Hadas et al. (2021) - TMS-EEG prefrontal activation
-2. Kaur et al. (2020) - EEG phase space reconstruction
-3. Kiiski et al. (2020) - Functional EEG connectivity
-4. Kim et al. (2021) - Machine learning mismatch negativity
-5. Mueller et al. (2011) - ERP components discrimination
-6. Müller et al. (2020) - EEG/ERP biomarkers
-7.  Poil et al. (2014) - Age-dependent EEG changes (**children included?**)
-8.  Ponomarev et al. (2014) - Group ICA and current source density
-9.  Shahaf et al. (2012) - Network oriented ERP analysis
+1. Kaur et al. (2020) - EEG phase space reconstruction
+1. Kiiski et al. (2020) - Functional EEG connectivity
+1. Kim et al. (2021) - Machine learning mismatch negativity
+1. Mueller et al. (2011) - ERP components discrimination
+1. Müller et al. (2020) - EEG/ERP biomarkers
+1.  Poil et al. (2014) - Age-dependent EEG changes (**children included?**)
+1.  Ponomarev et al. (2014) - Group ICA and current source density
+1.  Shahaf et al. (2012) - Network oriented ERP analysis
 
 
 ## Performance Validity/Effort Testing/Symptom Exaggeration
@@ -150,10 +141,21 @@ analysis
 3. Marshall et al. (2010) - WMT, CAT-A, b Test, DCT, etc
 4. Harrison et al (2007) - CAARS, Woodcock Johnson Psychoeducational Battery-III
 
+## Biomarkers
+
+1. Andrikopoulos et al. (2024) - Machine learning with physiological data
+2. Grünblatt et al. (2012) - Transcription markers in whole blood
+3. Jiminez et al (2021) - Eye vergence/oculomotor
+4. Juselius Baghdassarian et al. (2018) - Auditory brainstem response (ABR)
+5. Selek et al. (2012) - Total Antioxidative Status (TAS), Total
+Oxidative Status (TOS), and Oxidative Stress Index (OSI)
+1. Udal et al. (2024) - Neuromuscular assessment
+2. Woodruff et al. (2011) - A new blood test that measures blood cell membrane
+potential (expressed as membrane potential ratio [MPRTM])
 
 ## Unclassified/Problematic Studies
 
 1. Groom et al (2016) - CAARS + Autism scale + QB Test
-2. Matte et al (2015) - Checking DSM-5 criteria for adults (e.g., lowering
+1. Matte et al (2015) - Checking DSM-5 criteria for adults (e.g., lowering
    threshold)
 **3. Harrison & Armstrong (2020) - TOVA performance differences**
