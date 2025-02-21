@@ -1,9 +1,3 @@
----
-format:
-   typst: default
-date: 2025.02.20
----
-
 # ADHD Diagnostic Studies: Categorized by Measurement Type
 
 ## Clinical Rating Scales and Diagnostic Interviews

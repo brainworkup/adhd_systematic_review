@@ -1,0 +1,48 @@
+---
+title: "Grant Application Summary: Key Decisional Dilemma for ADHD Diagnosis and Treatment in Adults"
+author: Joey Trampush
+date: "`r format(Sys.Date(), '%B %d, %Y')`"
+output: html_document
+---
+
+# Key Decisional Dilemma for the Evidence Review
+
+## Introduction
+Attention-Deficit/Hyperactivity Disorder (ADHD) in adults presents a significant challenge in clinical practice due to its complex presentation, high comorbidity, and the varying responses to treatment. Clinicians, patients, and stakeholders must navigate several decisional dilemmas when diagnosing and treating ADHD in adults.
+
+## Diagnostic Challenges
+### Diagnosis Problematic
+Diagnosing ADHD in adults is inherently challenging. Symptoms such as inattention, hyperactivity, and impulsivity often overlap with other psychiatric conditions, making differential diagnosis difficult. Clinicians must consider the chronicity of symptoms from childhood through adulthood and assess functional impairment in various settings [oai_citation:1,A Practical Guide to Recognition and Diagnosis of ADHD in Adults in the Primary Care Setting.pdf](file-service://file-WFyJ22oAilXHF3w5EDqqe436) [oai_citation:2,A Practical Guide to Recognition and Diagnosis of ADHD in Adults in the Primary Care Setting.pdf](file-service://file-WFyJ22oAilXHF3w5EDqqe436).
+
+### Different Practices
+There is significant variability in diagnostic practices. While some clinicians use structured diagnostic interviews and validated rating scales, others rely on clinical judgment. This inconsistency can lead to both over-diagnosis and under-diagnosis of ADHD [oai_citation:3,A Practical Guide to Recognition and Diagnosis of ADHD in Adults in the Primary Care Setting.pdf](file-service://file-WFyJ22oAilXHF3w5EDqqe436) [oai_citation:4,A Practical Guide to Recognition and Diagnosis of ADHD in Adults in the Primary Care Setting.pdf](file-service://file-WFyJ22oAilXHF3w5EDqqe436).
+
+## Treatment Alternatives
+### Pharmacological vs. Non-Pharmacological Treatments
+Clinicians must choose between pharmacological treatments, such as stimulant and non-stimulant medications, and non-pharmacological interventions, including cognitive-behavioral therapy (CBT) and psychoeducation. Research indicates that while pharmacological treatments are highly effective, a comprehensive treatment plan that includes both pharmacological and non-pharmacological approaches yields the best outcomes [oai_citation:5,A Practical Guide to Recognition and Diagnosis of ADHD in Adults in the Primary Care Setting.pdf](file-service://file-WFyJ22oAilXHF3w5EDqqe436) [oai_citation:6,A Practical Guide to Recognition and Diagnosis of ADHD in Adults in the Primary Care Setting.pdf](file-service://file-WFyJ22oAilXHF3w5EDqqe436).
+
+### Conflicting Treatment Advice
+The choice of treatment is often complicated by conflicting advice from different guidelines and experts. Some guidelines recommend stimulants as the first-line treatment, while others suggest starting with non-stimulant medications or behavioral interventions, especially in patients with a history of substance abuse or other comorbid conditions [oai_citation:7,A Practical Guide to Recognition and Diagnosis of ADHD in Adults in the Primary Care Setting.pdf](file-service://file-WFyJ22oAilXHF3w5EDqqe436) [oai_citation:8,A Practical Guide to Recognition and Diagnosis of ADHD in Adults in the Primary Care Setting.pdf](file-service://file-WFyJ22oAilXHF3w5EDqqe436).
+
+## Treatment Initiation and Continuation
+### Who Should Initiate Treatment?
+Another dilemma involves deciding who should initiate treatment. Primary care physicians, psychiatrists, and other specialists all play roles in the management of ADHD. However, primary care physicians often have limited training in diagnosing and treating adult ADHD, leading to underdiagnosis and undertreatment [oai_citation:9,A Practical Guide to Recognition and Diagnosis of ADHD in Adults in the Primary Care Setting.pdf](file-service://file-WFyJ22oAilXHF3w5EDqqe436) [oai_citation:10,A Practical Guide to Recognition and Diagnosis of ADHD in Adults in the Primary Care Setting.pdf](file-service://file-WFyJ22oAilXHF3w5EDqqe436).
+
+### Unintended Consequences of Treatment
+The potential for stimulant diversion and misuse is a significant concern, particularly among college students and individuals in high-stress occupations. This risk must be balanced against the substantial benefits of effective ADHD treatment, which can include improved functioning and quality of life [oai_citation:11,A Practical Guide to Recognition and Diagnosis of ADHD in Adults in the Primary Care Setting.pdf](file-service://file-WFyJ22oAilXHF3w5EDqqe436) [oai_citation:12,A Practical Guide to Recognition and Diagnosis of ADHD in Adults in the Primary Care Setting.pdf](file-service://file-WFyJ22oAilXHF3w5EDqqe436).
+
+## Patient Characteristics and Cultural Considerations
+### Response Variability
+Patients with ADHD vary widely in their response to different treatments. Factors such as age, sex, comorbid conditions, and individual differences in metabolism and neurobiology can influence treatment outcomes [oai_citation:13,A Practical Guide to Recognition and Diagnosis of ADHD in Adults in the Primary Care Setting.pdf](file-service://file-WFyJ22oAilXHF3w5EDqqe436) [oai_citation:14,A Practical Guide to Recognition and Diagnosis of ADHD in Adults in the Primary Care Setting.pdf](file-service://file-WFyJ22oAilXHF3w5EDqqe436).
+
+### Cultural Differences
+Cultural attitudes towards mental health and ADHD can impact diagnosis and treatment. In some cultures, symptoms of ADHD may be under-recognized or attributed to other causes, leading to disparities in care [oai_citation:15,A Practical Guide to Recognition and Diagnosis of ADHD in Adults in the Primary Care Setting.pdf](file-service://file-WFyJ22oAilXHF3w5EDqqe436) [oai_citation:16,A Practical Guide to Recognition and Diagnosis of ADHD in Adults in the Primary Care Setting.pdf](file-service://file-WFyJ22oAilXHF3w5EDqqe436).
+
+## Conclusion
+The key decisional dilemmas in diagnosing and treating ADHD in adults revolve around diagnostic accuracy, treatment selection, initiation, and management of comorbid conditions. Addressing these dilemmas requires a multifaceted approach, including comprehensive training for clinicians, standardized diagnostic practices, and individualized treatment plans that consider patient characteristics and cultural contexts.
+
+## References
+1. Culpepper, L., & Mattingly, G. (2008). A Practical Guide to Recognition and Diagnosis of ADHD in Adults in the Primary Care Setting. Postgraduate Medicine, 120(3), 16-25.
+2. Biederman, J., et al. (2006). Functional impairments in adults with self-reports of diagnosed ADHD: a controlled study. Journal of Clinical Psychiatry, 67(4), 524-540.
+3. Kessler, R. C., et al. (2006). The prevalence and correlates of adult ADHD in the United States: results from the National Comorbidity Survey Replication. American Journal of Psychiatry, 163(4), 716-723.
+4. Weiss, M., & Murray, C. (2003). Assessment and management of attention-deficit/hyperactivity disorder in adults. CMAJ, 168(6), 715-722.

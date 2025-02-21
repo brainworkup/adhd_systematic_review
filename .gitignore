@@ -62,3 +62,5 @@ ADHD Rx Misuse Preliminary Report  011725.docx
 refs/
 *.docx
 *.xlsx
+
+/_*.local
