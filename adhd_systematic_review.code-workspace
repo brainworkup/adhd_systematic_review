@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"panel.border": "#dee2fc66",
+			"sash.hoverBorder": "#dee2fc66",
+			"sideBar.border": "#dee2fc66",
+			"tab.activeBorder": "#dee2fc66"
+		},
+		"workbench.colorTheme": "Blackboard Pro"
+	}
+}

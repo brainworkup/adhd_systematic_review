@@ -1,16 +1,88 @@
 ---
 title: Adult ADHD Systematic Review
 authors:
-  - name: Joey Trampush, PhD
-    affiliation: USC
+  - name: Joey W. Trampush, Ph.D.
+    affiliation: University of Southern California
     roles: writing
     corresponding: true
 bibliography: references.bib
+date: today
 ---
 
-## Section
-This is a simple placeholder for the manuscript's main document [@knuth84].
+## Introduction
 
+Attention-Deficit/Hyperactivity Disorder (ADHD) in adults presents a significant challenge in clinical practice due to its complex presentation, high comorbidity, and the varying responses to treatment. Clinicians, patients, and stakeholders must navigate several decisional dilemmas when diagnosing and treating ADHD in adults. Here, we address the key decisional dilemmas and current controversies and challenges in diagnosing ADHD in adults.
+
+Attention-deficit/hyperactivity disorder (ADHD) is a neurodevelopmental condition characterized by persistent patterns of inattention, hyperactivity, and impulsivity. While it is commonly diagnosed in children, ADHD frequently persists into adulthood, presenting unique challenges for diagnosis and management. This section explores the key decisional dilemmas faced by clinicians, patients, and stakeholders in diagnosing and treating adult ADHD.
+
+## Background
+
+### Trajectory of ADHD across development
+
+ADHD typically presents early in life, most often diagnosed and treated between early childhood and adolescence. Less commonly, ADHD can insidiously emerge in adulthood in individuals with no history of inattention, hyperactivity, or impulsivity in childhood. Notably, longitudinal data from the MTA ADHD Treatment Study suggests 90-95% of "adult-onset ADHD" is better accounted for by comorbid psychopathology, personality disorders, and/or substance use disorders *misdiagnosed* as ADHD [@sibley2017]. The later-onset expression of ADHD thus appears to be a syndrome distinct from childhood-onset ADHD.
+
+### Executive dysfunction in emerging adulthood
+
+Seeking evaluation and treatment for ADHD _for the first time_ continues to increase, and is especially salient on college campuses, where the use/misuse of prescription stimulant medication as a cognitive-enhancing drug is rising faster than the actual incidence of the disorder [@benson2015]. The volume of college students seeking an evaluation for ADHD to obtain test-taking and other academic accommodations has increased in parallel.
+
+Critically, interconnected heteromodal networks of association cortex that control higher executive cognitive functions are still maturing during college [@sydnorNeurodevelopmentAssociationCortices2021]. It is therefore plausible that generalized *executive dysfunction*, not undiagnosed ADHD per se, is underlying most clinical referrals for ADHD in college students. As such, we posit executive dysfunction is at the core of the real-world problems facing college students who self-refer for ADHD evaluation and treatment, which accentuates the comorbid difficulties these students face such as problematic drug and alcohol use, emotional dysregulation, and school failure.
+
+### Limited diagnostic tools to assess ADHD and executive functioning in college students
+
+Independent of when symptoms first present, the proliferation of adult-onset ADHD, whether real or feigned, signifies an increase in the demand to evaluate and treat ADHD across the lifespan. However, *clinicians do not have evidence-based, objective psychodiagnostic tools* (e.g., rating scales, neuropsychological measures) available to evaluate ADHD/EF in this specific population *that grows each year*. Poor diagnostic tools lead to inaccurate and misleading conclusions, which can result in clinicians making wasteful/cost-ineffective, inappropriate, or potentially even harmful treatment recommendations. If we fail to implement clinical assessment tools sensitive to *symptom validity* and *performance validity* during evaluations, we will continue to *overdiagnose* and treat college students and adults from the community faking ADHD for secondary gain, and *underdiagnose* those with actual ADHD who need medical and/or academic intervention.
+
+### Diagnostic Tools and Approaches
+
+- **Use of Standardized Tools**: Reliable diagnosis requires standardized rating scales and input from multiple informants, including self-reports, and observations by family members and colleagues.
+
+- **Clinical Judgment vs. Standardized Assessment**: Clinician judgment, while essential, may be supplemented by objective tools such as neuropsychological tests and behavioral assessments to enhance diagnostic accuracy.
+
+### Differential Diagnosis
+
+- **Comorbidity with Other Disorders**: Adults with ADHD often present with comorbid psychiatric conditions such as depression, anxiety, and substance use disorders, complicating the diagnostic process. Accurate differentiation between ADHD and these conditions is crucial.
+
+- **Overlap with Other Symptoms**: Symptoms of ADHD, such as inattention, can overlap with those of other psychiatric disorders, making differential diagnosis challenging.
+
+### Cultural and Socioeconomic Factors
+
+- **Bias and Accessibility**: Diagnostic practices may be influenced by cultural biases and socioeconomic factors, leading to disparities in diagnosis rates among different demographic groups. It is important to consider these factors to ensure equitable access to diagnosis and treatment.
+
+### Impact
+
+ADHD remains improperly diagnosed and treated in tens of thousands of promising college students, younger adults, and older adults. The consequences of aberrant diagnosis and treatment of ADHD during this critical stage of emerging adulthood and beyond can lead to functional impairments in school/work performance, educational attainment, career development, social-emotional development, and family and community life. The need for evidence-based diagnostic tools specific to this rapidly growing clinical population is urgently stronger than ever.
+
+## Key Decisional Dilemmas
+
+The primary decisional dilemmas for clinicians, patients, and stakeholders in diagnosing and managing ADHD in adults involve the following considerations:
+
+- **Diagnosis Challenges**: Clinicians must decide whether presenting symptoms are due to ADHD or other comorbid conditions such as anxiety, depression, or substance use disorders [@kooij2010].
+- **Treatment Initiation**: Decisions regarding who should initiate treatment (e.g., primary care vs. specialty care) and when to start treatment are crucial [@nice2018].
+- **Treatment Alternatives**: Providers need to determine the most effective treatment modalities, including pharmacological and non-pharmacological interventions [@cortese2018]. Further, clinicians must weigh the benefits and risks of stimulant medications versus non-stimulant medications [@bolea2014].
+- **Patient Characteristics**: Treatment effectiveness may vary based on individual patient characteristics such as age, sex, and comorbid conditions [@faraone2015].
+- **Cultural Considerations**: Cultural differences may impact the presentation, diagnosis, and treatment of ADHD in adults [@bruss2012].
+- **Unintended Consequences**: The potential for stimulant diversion and misuse is a significant concern when prescribing stimulant medications [@wilens2008].
+- **Identification and Assessment**: What are the most effective and reliable methods for diagnosing ADHD in adults? Considerations include standardized diagnostic criteria, use of rating scales, and the role of clinical interviews. Further, referral for neuropsychological evaluation for adult ADHD is increasingly common, given the complexity and heterogeneity of the disorder. [@barkley2008]
+- **Differential Diagnosis**: How can clinicians distinguish ADHD from other psychiatric conditions such as anxiety, depression, or personality disorders [@kooij2010]?
+- **Cultural and Socioeconomic Factors**: How do cultural perceptions and socioeconomic status affect the diagnosis of ADHD in adults [@ramos-quiroga2012]?
+- **Stigma and Misdiagnosis**: What impact does stigma have on the diagnosis of ADHD in adults, and how can misdiagnosis be minimized [@timimi2005]?
+
+## Controversies and Challenges
+
+Diagnosing ADHD in adults is inherently challenging. Symptoms such as inattention, hyperactivity, and impulsivity often overlap with other psychiatric conditions, making differential diagnosis difficult. Clinicians must consider the chronicity of symptoms from childhood through adulthood and assess functional impairment in various settings [@culpepper2008].
+
+- **Different Practices**: There is significant variability in diagnostic practices. While some clinicians use structured diagnostic interviews and validated rating scales, others rely on clinical judgment. This inconsistency can lead to both over-diagnosis and under-diagnosis of ADHD [@culpepper2008].
+- **Diagnostic Criteria**: There is debate over whether the DSM-5 criteria for ADHD, primarily developed for children, are fully applicable to adults [@asherson2016].
+- **Overdiagnosis vs. Underdiagnosis**: Controversy exists over the extent to which ADHD is overdiagnosed or underdiagnosed in adult populations [@faraone2021].
+- **Gender Differences**: The diagnosis of ADHD in women may be underrepresented due to differences in symptom presentation and societal expectations [@quinn2014].
+- **Comorbidity**: High rates of comorbidity with other psychiatric disorders complicate the diagnosis of ADHD in adults [@kessler2006]. 
+- **Diagnostic Criteria and Symptom Manifestation**: Adult ADHD diagnosis is complicated by the persistence and transformation of symptoms from childhood. Symptoms such as inattention and impulsivity may persist, while hyperactivity may manifest differently in adults.
+- **Diagnostic Criteria Adaptation**: Current diagnostic criteria (e.g., DSM-5) are based primarily on childhood symptoms, which may not fully capture adult presentations. There is a need for criteria that reflect adult-specific symptoms and impairments.
+
+
+
+## Conclusion
+
+The accurate diagnosis of ADHD in adults presents several decisional dilemmas for clinicians and patients. These include the adaptation of diagnostic criteria, the use of standardized tools, consideration of comorbidities, and the hard truth that many individuals are blatantly feigning their symptoms.
 
 adhd_systematic_review/
 ├── _quarto.yml           # Project configuration

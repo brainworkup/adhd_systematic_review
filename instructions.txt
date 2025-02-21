@@ -1,0 +1,13 @@
+Edit this manuscript in response to the instructions below. Keep the references within the context (attached to the sentence or phrase) of the revision. References are in numeric format e.g. 8-10. When generating the revised version, format the reference numbers as "superscript" numbers.
+
+
+
+"""I would like to challenge you to condense this section to just a few paragraphs. This could be more succinct and better organized while still highlighting the most important information. Please see the protocol template for example. Also should mention contextual information that there are currently no guidelines in the US, Australian guidelines. Highlight that most of the time decisions being made by PCPs, not specialists (if that is the case; that is my understanding from our discussions). See copy and paste from protocol template below:
+
+• Discuss any standards, variations, or uncertainty about disease diagnosis.
+
+• Be specific about the interventions and pertinent comparisons of interest and those that may require separate consideration due to heterogeneity of treatment effect.
+
+• Describe particular issues for complex interventions, such as individual component parts, groupings of intervention classes, or theoretical basis, as appropriate.
+
+• Include contextual information on existing standards or guidelines, availability, use, and practice. Think explicitly about the setting in which decisions are being made"""

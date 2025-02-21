@@ -1,0 +1,1126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving
+and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.2" article-type="other">
+  <front>
+    <article-meta>
+      <title-group>
+        <article-title>Adult ADHD Review for AHRQ</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" corresp="yes">
+          <name>
+            <surname>Joey W. Trampush</surname>
+            <given-names>Ph.D.</given-names>
+          </name>
+          <string-name>Joey W. Trampush, Ph.D.</string-name>
+          <role vocab="https://credit.niso.org" vocab-term="writing – original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">writing</role>
+          <xref ref-type="aff" rid="aff-1">a</xref>
+          <xref ref-type="corresp" rid="cor-1">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff-1">
+        <institution-wrap>
+          <institution>University of Southern California</institution>
+        </institution-wrap>
+      </aff>
+      <author-notes>
+        <corresp id="cor-1"/>
+      </author-notes>
+      <history/>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="introduction">
+      <title>Introduction</title>
+      <p>Attention-Deficit/Hyperactivity Disorder (ADHD) in adults presents
+  a significant challenge in clinical practice due to its complex
+  presentation, high comorbidity, and the varying responses to
+  treatment. Clinicians, patients, and stakeholders must navigate
+  several decisional dilemmas when diagnosing and treating ADHD in
+  adults. Here, we address the key decisional dilemmas and current
+  controversies and challenges in diagnosing ADHD in adults.</p>
+      <p>Attention-deficit/hyperactivity disorder (ADHD) is a
+  neurodevelopmental condition characterized by persistent patterns of
+  inattention, hyperactivity, and impulsivity. While it is commonly
+  diagnosed in children, ADHD frequently persists into adulthood,
+  presenting unique challenges for diagnosis and management. This
+  section explores the key decisional dilemmas faced by clinicians,
+  patients, and stakeholders in diagnosing and treating adult ADHD.</p>
+    </sec>
+    <sec id="background">
+      <title>Background</title>
+      <sec id="trajectory-of-adhd-across-development">
+        <title>Trajectory of ADHD across development</title>
+        <p>ADHD typically presents early in life, most often diagnosed and
+    treated between early childhood and adolescence. Less commonly, ADHD
+    can insidiously emerge in adulthood in individuals with no history
+    of inattention, hyperactivity, or impulsivity in childhood. Notably,
+    longitudinal data from the MTA ADHD Treatment Study suggests 90-95%
+    of “adult-onset ADHD” is better accounted for by comorbid
+    psychopathology, personality disorders, and/or substance use
+    disorders <italic>misdiagnosed</italic> as ADHD
+    (<xref alt="Sibley et al. 2017" rid="ref-sibley2017" ref-type="bibr">Sibley
+    et al. 2017</xref>). The later-onset expression of ADHD thus appears
+    to be a syndrome distinct from childhood-onset ADHD.</p>
+      </sec>
+      <sec id="executive-dysfunction-in-emerging-adulthood">
+        <title>Executive dysfunction in emerging adulthood</title>
+        <p>Seeking evaluation and treatment for ADHD <italic>for the first
+    time</italic> continues to increase, and is especially salient on
+    college campuses, where the use/misuse of prescription stimulant
+    medication as a cognitive-enhancing drug is rising faster than the
+    actual incidence of the disorder
+    (<xref alt="Benson et al. 2015" rid="ref-benson2015" ref-type="bibr">Benson
+    et al. 2015</xref>). The volume of college students seeking an
+    evaluation for ADHD to obtain test-taking and other academic
+    accommodations has increased in parallel.</p>
+        <p>Critically, interconnected heteromodal networks of association
+    cortex that control higher executive cognitive functions are still
+    maturing during college
+    (<xref alt="Sydnor et al. 2021" rid="ref-sydnorNeurodevelopmentAssociationCortices2021" ref-type="bibr">Sydnor
+    et al. 2021</xref>). It is therefore plausible that generalized
+    <italic>executive dysfunction</italic>, not undiagnosed ADHD per se,
+    is underlying most clinical referrals for ADHD in college students.
+    As such, we posit executive dysfunction is at the core of the
+    real-world problems facing college students who self-refer for ADHD
+    evaluation and treatment, which accentuates the comorbid
+    difficulties these students face such as problematic drug and
+    alcohol use, emotional dysregulation, and school failure.</p>
+      </sec>
+      <sec id="limited-diagnostic-tools-to-assess-adhd-and-executive-functioning-in-college-students">
+        <title>Limited diagnostic tools to assess ADHD and executive
+    functioning in college students</title>
+        <p>Independent of when symptoms first present, the proliferation of
+    adult-onset ADHD, whether real or feigned, signifies an increase in
+    the demand to evaluate and treat ADHD across the lifespan. However,
+    <italic>clinicians do not have evidence-based, objective
+    psychodiagnostic tools</italic> (e.g., rating scales,
+    neuropsychological measures) available to evaluate ADHD/EF in this
+    specific population <italic>that grows each year</italic>. Poor
+    diagnostic tools lead to inaccurate and misleading conclusions,
+    which can result in clinicians making wasteful/cost-ineffective,
+    inappropriate, or potentially even harmful treatment
+    recommendations. If we fail to implement clinical assessment tools
+    sensitive to <italic>symptom validity</italic> and
+    <italic>performance validity</italic> during evaluations, we will
+    continue to <italic>overdiagnose</italic> and treat college students
+    and adults from the community faking ADHD for secondary gain, and
+    <italic>underdiagnose</italic> those with actual ADHD who need
+    medical and/or academic intervention.</p>
+      </sec>
+      <sec id="diagnostic-tools-and-approaches">
+        <title>Diagnostic Tools and Approaches</title>
+        <list list-type="bullet">
+          <list-item>
+            <p><bold>Use of Standardized Tools</bold>: Reliable diagnosis
+        requires standardized rating scales and input from multiple
+        informants, including self-reports, and observations by family
+        members and colleagues.</p>
+          </list-item>
+          <list-item>
+            <p><bold>Clinical Judgment vs. Standardized Assessment</bold>:
+        Clinician judgment, while essential, may be supplemented by
+        objective tools such as neuropsychological tests and behavioral
+        assessments to enhance diagnostic accuracy.</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="differential-diagnosis">
+        <title>Differential Diagnosis</title>
+        <list list-type="bullet">
+          <list-item>
+            <p><bold>Comorbidity with Other Disorders</bold>: Adults with
+        ADHD often present with comorbid psychiatric conditions such as
+        depression, anxiety, and substance use disorders, complicating
+        the diagnostic process. Accurate differentiation between ADHD
+        and these conditions is crucial.</p>
+          </list-item>
+          <list-item>
+            <p><bold>Overlap with Other Symptoms</bold>: Symptoms of ADHD,
+        such as inattention, can overlap with those of other psychiatric
+        disorders, making differential diagnosis challenging.</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="cultural-and-socioeconomic-factors">
+        <title>Cultural and Socioeconomic Factors</title>
+        <list list-type="bullet">
+          <list-item>
+            <p><bold>Bias and Accessibility</bold>: Diagnostic practices may
+        be influenced by cultural biases and socioeconomic factors,
+        leading to disparities in diagnosis rates among different
+        demographic groups. It is important to consider these factors to
+        ensure equitable access to diagnosis and treatment.</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="impact">
+        <title>Impact</title>
+        <p>ADHD remains improperly diagnosed and treated in tens of
+    thousands of promising college students, younger adults, and older
+    adults. The consequences of aberrant diagnosis and treatment of ADHD
+    during this critical stage of emerging adulthood and beyond can lead
+    to functional impairments in school/work performance, educational
+    attainment, career development, social-emotional development, and
+    family and community life. The need for evidence-based diagnostic
+    tools specific to this rapidly growing clinical population is
+    urgently stronger than ever.</p>
+      </sec>
+    </sec>
+    <sec id="key-decisional-dilemmas">
+      <title>Key Decisional Dilemmas</title>
+      <p>The primary decisional dilemmas for clinicians, patients, and
+  stakeholders in diagnosing and managing ADHD in adults involve the
+  following considerations:</p>
+      <list list-type="bullet">
+        <list-item>
+          <p><bold>Diagnosis Challenges</bold>: Clinicians must decide
+      whether presenting symptoms are due to ADHD or other comorbid
+      conditions such as anxiety, depression, or substance use disorders
+      (<xref alt="Kooij et al. 2010" rid="ref-kooij2010" ref-type="bibr">Kooij
+      et al. 2010</xref>).</p>
+        </list-item>
+        <list-item>
+          <p><bold>Treatment Initiation</bold>: Decisions regarding who
+      should initiate treatment (e.g., primary care vs. specialty care)
+      and when to start treatment are crucial
+      (<xref alt="Health and (NICE) 2018" rid="ref-nice2018" ref-type="bibr">Health
+      and (NICE) 2018</xref>).</p>
+        </list-item>
+        <list-item>
+          <p><bold>Treatment Alternatives</bold>: Providers need to
+      determine the most effective treatment modalities, including
+      pharmacological and non-pharmacological interventions
+      (<xref alt="Cortese et al. 2018" rid="ref-cortese2018" ref-type="bibr">Cortese
+      et al. 2018</xref>). Further, clinicians must weigh the benefits
+      and risks of stimulant medications versus non-stimulant
+      medications
+      (<xref alt="Bolea-Alamañac et al. 2014" rid="ref-bolea2014" ref-type="bibr">Bolea-Alamañac
+      et al. 2014</xref>).</p>
+        </list-item>
+        <list-item>
+          <p><bold>Patient Characteristics</bold>: Treatment effectiveness
+      may vary based on individual patient characteristics such as age,
+      sex, and comorbid conditions
+      (<xref alt="Faraone, Biederman, and Mick 2015" rid="ref-faraone2015" ref-type="bibr">Faraone,
+      Biederman, and Mick 2015</xref>).</p>
+        </list-item>
+        <list-item>
+          <p><bold>Cultural Considerations</bold>: Cultural differences may
+      impact the presentation, diagnosis, and treatment of ADHD in
+      adults
+      (<xref alt="Bruss et al. 2012" rid="ref-bruss2012" ref-type="bibr">Bruss
+      et al. 2012</xref>).</p>
+        </list-item>
+        <list-item>
+          <p><bold>Unintended Consequences</bold>: The potential for
+      stimulant diversion and misuse is a significant concern when
+      prescribing stimulant medications
+      (<xref alt="Wilens et al. 2008" rid="ref-wilens2008" ref-type="bibr">Wilens
+      et al. 2008</xref>).</p>
+        </list-item>
+        <list-item>
+          <p><bold>Identification and Assessment</bold>: What are the most
+      effective and reliable methods for diagnosing ADHD in adults?
+      Considerations include standardized diagnostic criteria, use of
+      rating scales, and the role of clinical interviews. Further,
+      referral for neuropsychological evaluation for adult ADHD is
+      increasingly common, given the complexity and heterogeneity of the
+      disorder.
+      (<xref alt="Barkley, Murphy, and Fischer 2008" rid="ref-barkley2008" ref-type="bibr">Barkley,
+      Murphy, and Fischer 2008</xref>)</p>
+        </list-item>
+        <list-item>
+          <p><bold>Differential Diagnosis</bold>: How can clinicians
+      distinguish ADHD from other psychiatric conditions such as
+      anxiety, depression, or personality disorders
+      (<xref alt="Kooij et al. 2010" rid="ref-kooij2010" ref-type="bibr">Kooij
+      et al. 2010</xref>)?</p>
+        </list-item>
+        <list-item>
+          <p><bold>Cultural and Socioeconomic Factors</bold>: How do
+      cultural perceptions and socioeconomic status affect the diagnosis
+      of ADHD in adults
+      (<xref alt="Ramos-Quiroga et al. 2012" rid="ref-ramos-quiroga2012" ref-type="bibr">Ramos-Quiroga
+      et al. 2012</xref>)?</p>
+        </list-item>
+        <list-item>
+          <p><bold>Stigma and Misdiagnosis</bold>: What impact does stigma
+      have on the diagnosis of ADHD in adults, and how can misdiagnosis
+      be minimized
+      (<xref alt="Timimi and Radcliffe 2005" rid="ref-timimi2005" ref-type="bibr">Timimi
+      and Radcliffe 2005</xref>)?</p>
+        </list-item>
+      </list>
+    </sec>
+    <sec id="controversies-and-challenges">
+      <title>Controversies and Challenges</title>
+      <p>Diagnosing ADHD in adults is inherently challenging. Symptoms such
+  as inattention, hyperactivity, and impulsivity often overlap with
+  other psychiatric conditions, making differential diagnosis difficult.
+  Clinicians must consider the chronicity of symptoms from childhood
+  through adulthood and assess functional impairment in various settings
+  (<xref alt="Culpepper and Mattingly 2008" rid="ref-culpepper2008" ref-type="bibr">Culpepper
+  and Mattingly 2008</xref>).</p>
+      <list list-type="bullet">
+        <list-item>
+          <p><bold>Different Practices</bold>: There is significant
+      variability in diagnostic practices. While some clinicians use
+      structured diagnostic interviews and validated rating scales,
+      others rely on clinical judgment. This inconsistency can lead to
+      both over-diagnosis and under-diagnosis of ADHD
+      (<xref alt="Culpepper and Mattingly 2008" rid="ref-culpepper2008" ref-type="bibr">Culpepper
+      and Mattingly 2008</xref>).</p>
+        </list-item>
+        <list-item>
+          <p><bold>Diagnostic Criteria</bold>: There is debate over whether
+      the DSM-5 criteria for ADHD, primarily developed for children, are
+      fully applicable to adults
+      (<xref alt="Asherson et al. 2016" rid="ref-asherson2016" ref-type="bibr">Asherson
+      et al. 2016</xref>).</p>
+        </list-item>
+        <list-item>
+          <p><bold>Overdiagnosis vs. Underdiagnosis</bold>: Controversy
+      exists over the extent to which ADHD is overdiagnosed or
+      underdiagnosed in adult populations
+      (<xref alt="Faraone et al. 2021" rid="ref-faraone2021" ref-type="bibr">Faraone
+      et al. 2021</xref>).</p>
+        </list-item>
+        <list-item>
+          <p><bold>Gender Differences</bold>: The diagnosis of ADHD in women
+      may be underrepresented due to differences in symptom presentation
+      and societal expectations
+      (<xref alt="Quinn and Madhoo 2014" rid="ref-quinn2014" ref-type="bibr">Quinn
+      and Madhoo 2014</xref>).</p>
+        </list-item>
+        <list-item>
+          <p><bold>Comorbidity</bold>: High rates of comorbidity with other
+      psychiatric disorders complicate the diagnosis of ADHD in adults
+      (<xref alt="Kessler et al. 2006" rid="ref-kessler2006" ref-type="bibr">Kessler
+      et al. 2006</xref>).</p>
+        </list-item>
+        <list-item>
+          <p><bold>Diagnostic Criteria and Symptom Manifestation</bold>:
+      Adult ADHD diagnosis is complicated by the persistence and
+      transformation of symptoms from childhood. Symptoms such as
+      inattention and impulsivity may persist, while hyperactivity may
+      manifest differently in adults.</p>
+        </list-item>
+        <list-item>
+          <p><bold>Diagnostic Criteria Adaptation</bold>: Current diagnostic
+      criteria (e.g., DSM-5) are based primarily on childhood symptoms,
+      which may not fully capture adult presentations. There is a need
+      for criteria that reflect adult-specific symptoms and
+      impairments.</p>
+        </list-item>
+      </list>
+    </sec>
+    <sec id="conclusion">
+      <title>Conclusion</title>
+      <p>The accurate diagnosis of ADHD in adults presents several
+  decisional dilemmas for clinicians and patients. These include the
+  adaptation of diagnostic criteria, the use of standardized tools,
+  consideration of comorbidities, and the hard truth that many
+  individuals are blatantly feigning their symptoms.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title/>
+      <ref id="ref-asherson2016">
+        <element-citation publication-type="article-journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Asherson</surname>
+              <given-names>Philip</given-names>
+            </name>
+            <name>
+              <surname>Buitelaar</surname>
+              <given-names>Jan</given-names>
+            </name>
+            <name>
+              <surname>Faraone</surname>
+              <given-names>Stephen V.</given-names>
+            </name>
+            <name>
+              <surname>Rohde</surname>
+              <given-names>Luis A.</given-names>
+            </name>
+          </person-group>
+          <article-title>ADHD management in adolescents transitioning to adulthood: Challenges and opportunities</article-title>
+          <source>Postgraduate Medicine</source>
+          <year iso-8601-date="2016">2016</year>
+          <volume>128</volume>
+          <issue>8</issue>
+          <pub-id pub-id-type="doi">10.1080/00325481.2016.1231234</pub-id>
+          <fpage>774</fpage>
+          <lpage>783</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-barkley2008">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barkley</surname>
+              <given-names>Russell A.</given-names>
+            </name>
+            <name>
+              <surname>Murphy</surname>
+              <given-names>Kevin R.</given-names>
+            </name>
+            <name>
+              <surname>Fischer</surname>
+              <given-names>Mariellen</given-names>
+            </name>
+          </person-group>
+          <source>ADHD in adults: What the science says</source>
+          <publisher-name>Guilford Press</publisher-name>
+          <year iso-8601-date="2008">2008</year>
+        </element-citation>
+      </ref>
+      <ref id="ref-benson2015">
+        <element-citation publication-type="article-journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Benson</surname>
+              <given-names>Kari</given-names>
+            </name>
+            <name>
+              <surname>Flory</surname>
+              <given-names>Kate</given-names>
+            </name>
+            <name>
+              <surname>Humphreys</surname>
+              <given-names>Kathryn L.</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>Steve S.</given-names>
+            </name>
+          </person-group>
+          <article-title>Misuse of stimulant medication among college students: A comprehensive review and meta-analysis</article-title>
+          <source>Clinical Child and Family Psychology Review</source>
+          <year iso-8601-date="2015">2015</year>
+          <volume>18</volume>
+          <issue>1</issue>
+          <pub-id pub-id-type="doi">10.1007/s10567-014-0177-z</pub-id>
+          <fpage>50</fpage>
+          <lpage>76</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-bolea2014">
+        <element-citation publication-type="article-journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bolea-Alamañac</surname>
+              <given-names>Begonya</given-names>
+            </name>
+            <name>
+              <surname>Nutt</surname>
+              <given-names>David J.</given-names>
+            </name>
+            <name>
+              <surname>Adamou</surname>
+              <given-names>Marios</given-names>
+            </name>
+            <name>
+              <surname>Asherson</surname>
+              <given-names>Philip</given-names>
+            </name>
+            <name>
+              <surname>Bazire</surname>
+              <given-names>Steve</given-names>
+            </name>
+            <name>
+              <surname>Coghill</surname>
+              <given-names>David</given-names>
+            </name>
+            <name>
+              <surname>Young</surname>
+              <given-names>Susan J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Evidence-based guidelines for the pharmacological management of attention deficit hyperactivity disorder: Update on recommendations from the british association for psychopharmacology</article-title>
+          <source>Journal of Psychopharmacology</source>
+          <year iso-8601-date="2014">2014</year>
+          <volume>28</volume>
+          <issue>3</issue>
+          <pub-id pub-id-type="doi">10.1177/0269881113519509</pub-id>
+          <fpage>238</fpage>
+          <lpage>256</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-bruss2012">
+        <element-citation publication-type="article-journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bruss</surname>
+              <given-names>George S.</given-names>
+            </name>
+            <name>
+              <surname>Morris</surname>
+              <given-names>Robert J.</given-names>
+            </name>
+            <name>
+              <surname>Dannemiller</surname>
+              <given-names>James L.</given-names>
+            </name>
+            <name>
+              <surname>Orengo</surname>
+              <given-names>Carlos A.</given-names>
+            </name>
+            <name>
+              <surname>Cleveland</surname>
+              <given-names>Peter H.</given-names>
+            </name>
+          </person-group>
+          <article-title>Cultural and socioeconomic factors affecting the diagnosis and treatment of ADHD in adults</article-title>
+          <source>The Family Journal</source>
+          <year iso-8601-date="2012">2012</year>
+          <volume>20</volume>
+          <issue>3</issue>
+          <pub-id pub-id-type="doi">10.1177/1066480712451234</pub-id>
+          <fpage>251</fpage>
+          <lpage>257</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-cortese2018">
+        <element-citation publication-type="article-journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cortese</surname>
+              <given-names>Samuele</given-names>
+            </name>
+            <name>
+              <surname>Adamo</surname>
+              <given-names>Nicoletta</given-names>
+            </name>
+            <name>
+              <surname>Del Giovane</surname>
+              <given-names>Cinzia</given-names>
+            </name>
+            <name>
+              <surname>Mohr-Jensen</surname>
+              <given-names>Christina</given-names>
+            </name>
+            <name>
+              <surname>Hayes</surname>
+              <given-names>Alex J.</given-names>
+            </name>
+            <name>
+              <surname>Carucci</surname>
+              <given-names>Stefania</given-names>
+            </name>
+            <name>
+              <surname>Atkinson</surname>
+              <given-names>Lou</given-names>
+            </name>
+            <name>
+              <surname>Tessari</surname>
+              <given-names>Lorenzo</given-names>
+            </name>
+            <name>
+              <surname>Banaschewski</surname>
+              <given-names>Tobias</given-names>
+            </name>
+            <name>
+              <surname>Coghill</surname>
+              <given-names>David</given-names>
+            </name>
+            <name>
+              <surname>Hollis</surname>
+              <given-names>Chris</given-names>
+            </name>
+            <name>
+              <surname>Simonoff</surname>
+              <given-names>Emily</given-names>
+            </name>
+            <name>
+              <surname>Zuddas</surname>
+              <given-names>Alessandro</given-names>
+            </name>
+            <name>
+              <surname>Barbui</surname>
+              <given-names>Corrado</given-names>
+            </name>
+            <name>
+              <surname>Cipriani</surname>
+              <given-names>Andrea</given-names>
+            </name>
+          </person-group>
+          <article-title>Comparative efficacy and tolerability of medications for attention-deficit hyperactivity disorder in children, adolescents, and adults: A systematic review and network meta-analysis</article-title>
+          <source>The Lancet Psychiatry</source>
+          <year iso-8601-date="2018">2018</year>
+          <volume>5</volume>
+          <issue>9</issue>
+          <pub-id pub-id-type="doi">10.1016/S2215-0366(18)30269-4</pub-id>
+          <fpage>727</fpage>
+          <lpage>738</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-culpepper2008">
+        <element-citation publication-type="article-journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Culpepper</surname>
+              <given-names>Larry</given-names>
+            </name>
+            <name>
+              <surname>Mattingly</surname>
+              <given-names>Gary</given-names>
+            </name>
+          </person-group>
+          <article-title>A practical guide to recognition and diagnosis of ADHD in adults in the primary care setting</article-title>
+          <source>Postgraduate Medicine</source>
+          <year iso-8601-date="2008">2008</year>
+          <volume>120</volume>
+          <issue>3</issue>
+          <pub-id pub-id-type="doi">10.3810/pgm.2008.09.1906</pub-id>
+          <fpage>16</fpage>
+          <lpage>25</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-faraone2015">
+        <element-citation publication-type="article-journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Faraone</surname>
+              <given-names>Stephen V.</given-names>
+            </name>
+            <name>
+              <surname>Biederman</surname>
+              <given-names>Joseph</given-names>
+            </name>
+            <name>
+              <surname>Mick</surname>
+              <given-names>Eric</given-names>
+            </name>
+          </person-group>
+          <article-title>The age-dependent decline of attention deficit hyperactivity disorder: A meta-analysis of follow-up studies</article-title>
+          <source>Journal of Psychiatric Research</source>
+          <year iso-8601-date="2015">2015</year>
+          <volume>60</volume>
+          <issue>1</issue>
+          <pub-id pub-id-type="doi">10.1016/j.jpsychires.2014.10.011</pub-id>
+          <fpage>1</fpage>
+          <lpage>7</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-faraone2021">
+        <element-citation publication-type="article-journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Faraone</surname>
+              <given-names>Stephen V.</given-names>
+            </name>
+            <name>
+              <surname>Banaschewski</surname>
+              <given-names>Tobias</given-names>
+            </name>
+            <name>
+              <surname>Coghill</surname>
+              <given-names>David</given-names>
+            </name>
+            <name>
+              <surname>Zheng</surname>
+              <given-names>Yi</given-names>
+            </name>
+            <name>
+              <surname>Biederman</surname>
+              <given-names>Joseph</given-names>
+            </name>
+            <name>
+              <surname>Bellgrove</surname>
+              <given-names>Mark A.</given-names>
+            </name>
+            <name>
+              <surname>Newcorn</surname>
+              <given-names>Jeffrey H.</given-names>
+            </name>
+            <name>
+              <surname>Gignac</surname>
+              <given-names>Martin</given-names>
+            </name>
+            <name>
+              <surname>Manor</surname>
+              <given-names>Iris</given-names>
+            </name>
+            <name>
+              <surname>Rohde</surname>
+              <given-names>Luis A.</given-names>
+            </name>
+            <name>
+              <surname>Cortese</surname>
+              <given-names>Samuele</given-names>
+            </name>
+          </person-group>
+          <article-title>The world federation of ADHD international consensus statement: 208 evidence-based conclusions about the disorder</article-title>
+          <source>Neuroscience &amp; Biobehavioral Reviews</source>
+          <year iso-8601-date="2021">2021</year>
+          <volume>128</volume>
+          <pub-id pub-id-type="doi">10.1016/j.neubiorev.2021.07.028</pub-id>
+          <fpage>789</fpage>
+          <lpage>818</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-kessler2006">
+        <element-citation publication-type="article-journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kessler</surname>
+              <given-names>Ronald C.</given-names>
+            </name>
+            <name>
+              <surname>Adler</surname>
+              <given-names>Lenard</given-names>
+            </name>
+            <name>
+              <surname>Barkley</surname>
+              <given-names>Russell</given-names>
+            </name>
+            <name>
+              <surname>Biederman</surname>
+              <given-names>Joseph</given-names>
+            </name>
+            <name>
+              <surname>Conners</surname>
+              <given-names>C. Keith</given-names>
+            </name>
+            <name>
+              <surname>Demler</surname>
+              <given-names>Olga</given-names>
+            </name>
+            <name>
+              <surname>Faraone</surname>
+              <given-names>Stephen V.</given-names>
+            </name>
+            <name>
+              <surname>Greenhill</surname>
+              <given-names>Laurence L.</given-names>
+            </name>
+            <name>
+              <surname>Howes</surname>
+              <given-names>Michael J.</given-names>
+            </name>
+            <name>
+              <surname>Secnik</surname>
+              <given-names>Kristina</given-names>
+            </name>
+            <name>
+              <surname>Spencer</surname>
+              <given-names>Thomas</given-names>
+            </name>
+            <name>
+              <surname>Ustun</surname>
+              <given-names>T. Bedirhan</given-names>
+            </name>
+            <name>
+              <surname>Walters</surname>
+              <given-names>Ellen E.</given-names>
+            </name>
+            <name>
+              <surname>Zaslavsky</surname>
+              <given-names>Alan M.</given-names>
+            </name>
+          </person-group>
+          <article-title>The prevalence and correlates of adult ADHD in the united states: Results from the national comorbidity survey replication</article-title>
+          <source>American Journal of Psychiatry</source>
+          <year iso-8601-date="2006">2006</year>
+          <volume>163</volume>
+          <issue>4</issue>
+          <pub-id pub-id-type="doi">10.1176/ajp.2006.163.4.716</pub-id>
+          <fpage>716</fpage>
+          <lpage>723</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-kooij2010">
+        <element-citation publication-type="article-journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kooij</surname>
+              <given-names>J. J. Sandra</given-names>
+            </name>
+            <name>
+              <surname>Bejerot</surname>
+              <given-names>Susanne</given-names>
+            </name>
+            <name>
+              <surname>Blackwell</surname>
+              <given-names>Alexander</given-names>
+            </name>
+            <name>
+              <surname>Caci</surname>
+              <given-names>Herve</given-names>
+            </name>
+            <name>
+              <surname>Casas-Brugué</surname>
+              <given-names>Miquel</given-names>
+            </name>
+            <name>
+              <surname>Carpentier</surname>
+              <given-names>Patrick J.</given-names>
+            </name>
+            <name>
+              <surname>Edvinsson</surname>
+              <given-names>Dan</given-names>
+            </name>
+            <name>
+              <surname>Fayyad</surname>
+              <given-names>John</given-names>
+            </name>
+            <name>
+              <surname>Foeken</surname>
+              <given-names>Koen</given-names>
+            </name>
+            <name>
+              <surname>Fitzgerald</surname>
+              <given-names>Michael</given-names>
+            </name>
+            <name>
+              <surname>Gaillac</surname>
+              <given-names>Veronique</given-names>
+            </name>
+            <name>
+              <surname>Ginsberg</surname>
+              <given-names>Ylva</given-names>
+            </name>
+            <name>
+              <surname>Henry</surname>
+              <given-names>Christian</given-names>
+            </name>
+            <name>
+              <surname>Krause</surname>
+              <given-names>Jörg</given-names>
+            </name>
+            <name>
+              <surname>Lensing</surname>
+              <given-names>Marjolein B.</given-names>
+            </name>
+            <name>
+              <surname>Manor</surname>
+              <given-names>Iris</given-names>
+            </name>
+            <name>
+              <surname>Niederhofer</surname>
+              <given-names>Helmut</given-names>
+            </name>
+            <name>
+              <surname>Nunes-Filho</surname>
+              <given-names>Edson</given-names>
+            </name>
+            <name>
+              <surname>Ohlmeier</surname>
+              <given-names>Martin</given-names>
+            </name>
+            <name>
+              <surname>Oswald</surname>
+              <given-names>Peter</given-names>
+            </name>
+            <name>
+              <surname>Pallanti</surname>
+              <given-names>Stefano</given-names>
+            </name>
+            <name>
+              <surname>Pehlivanidis</surname>
+              <given-names>Andreas</given-names>
+            </name>
+            <name>
+              <surname>Ramos-Quiroga</surname>
+              <given-names>Josep Antoni</given-names>
+            </name>
+            <name>
+              <surname>Rastam</surname>
+              <given-names>Maria</given-names>
+            </name>
+            <name>
+              <surname>Ryffel-Rawak</surname>
+              <given-names>Daniel</given-names>
+            </name>
+            <name>
+              <surname>Stes</surname>
+              <given-names>Steven</given-names>
+            </name>
+            <name>
+              <surname>Asherson</surname>
+              <given-names>Philip</given-names>
+            </name>
+          </person-group>
+          <article-title>European consensus statement on diagnosis and treatment of adult ADHD: The european network adult ADHD</article-title>
+          <source>BMC Psychiatry</source>
+          <year iso-8601-date="2010">2010</year>
+          <volume>10</volume>
+          <issue>1</issue>
+          <pub-id pub-id-type="doi">10.1186/1471-244X-10-67</pub-id>
+          <fpage>67</fpage>
+          <lpage/>
+        </element-citation>
+      </ref>
+      <ref id="ref-nice2018">
+        <element-citation publication-type="article-journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Health</surname>
+              <given-names>National Institute for</given-names>
+            </name>
+            <name>
+              <surname>(NICE)</surname>
+              <given-names>Care Excellence</given-names>
+            </name>
+          </person-group>
+          <article-title>Attention deficit hyperactivity disorder: Diagnosis and management</article-title>
+          <source>NICE Guideline</source>
+          <year iso-8601-date="2018">2018</year>
+          <issue>87</issue>
+          <uri>https://www.nice.org.uk/guidance/ng87</uri>
+        </element-citation>
+      </ref>
+      <ref id="ref-quinn2014">
+        <element-citation publication-type="article-journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Quinn</surname>
+              <given-names>Patricia O.</given-names>
+            </name>
+            <name>
+              <surname>Madhoo</surname>
+              <given-names>Manisha</given-names>
+            </name>
+          </person-group>
+          <article-title>A review of attention-deficit/hyperactivity disorder in women and girls: Uncovering this hidden diagnosis</article-title>
+          <source>The Primary Care Companion for CNS Disorders</source>
+          <year iso-8601-date="2014">2014</year>
+          <volume>16</volume>
+          <issue>3</issue>
+          <pub-id pub-id-type="doi">10.4088/PCC.13r01596</pub-id>
+          <fpage>PCC.13r01596</fpage>
+          <lpage/>
+        </element-citation>
+      </ref>
+      <ref id="ref-ramos-quiroga2012">
+        <element-citation publication-type="article-journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ramos-Quiroga</surname>
+              <given-names>Josep Antoni</given-names>
+            </name>
+            <name>
+              <surname>Montoya</surname>
+              <given-names>Ana</given-names>
+            </name>
+            <name>
+              <surname>Kutzelnigg</surname>
+              <given-names>Alexander</given-names>
+            </name>
+            <name>
+              <surname>Deberdt</surname>
+              <given-names>Wouter</given-names>
+            </name>
+            <name>
+              <surname>Sobanski</surname>
+              <given-names>Esther</given-names>
+            </name>
+          </person-group>
+          <article-title>Attention deficit hyperactivity disorder in the european adult population: Prevalence, disease awareness, and treatment guidelines</article-title>
+          <source>Current Medical Research and Opinion</source>
+          <year iso-8601-date="2012">2012</year>
+          <volume>29</volume>
+          <issue>9</issue>
+          <pub-id pub-id-type="doi">10.1185/03007995.2012.712143</pub-id>
+          <fpage>1093</fpage>
+          <lpage>1104</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-sibley2017">
+        <element-citation publication-type="article-journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sibley</surname>
+              <given-names>Margaret H.</given-names>
+            </name>
+            <name>
+              <surname>Swanson</surname>
+              <given-names>James M.</given-names>
+            </name>
+            <name>
+              <surname>Arnold</surname>
+              <given-names>L. Eugene</given-names>
+            </name>
+            <name>
+              <surname>Hechtman</surname>
+              <given-names>Lily T.</given-names>
+            </name>
+            <name>
+              <surname>Owens</surname>
+              <given-names>Emily B.</given-names>
+            </name>
+            <name>
+              <surname>Stehli</surname>
+              <given-names>Alexandra</given-names>
+            </name>
+            <name>
+              <surname>Molina</surname>
+              <given-names>Brooke S. G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Defining ADHD symptom persistence in adulthood: Optimizing sensitivity and specificity</article-title>
+          <source>Journal of Child Psychology and Psychiatry</source>
+          <year iso-8601-date="2017">2017</year>
+          <volume>58</volume>
+          <issue>6</issue>
+          <pub-id pub-id-type="doi">10.1111/jcpp.12727</pub-id>
+          <fpage>655</fpage>
+          <lpage>662</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-sydnorNeurodevelopmentAssociationCortices2021">
+        <element-citation publication-type="article-journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sydnor</surname>
+              <given-names>Valerie J.</given-names>
+            </name>
+            <name>
+              <surname>Larsen</surname>
+              <given-names>Bart</given-names>
+            </name>
+            <name>
+              <surname>Bassett</surname>
+              <given-names>Danielle S.</given-names>
+            </name>
+            <name>
+              <surname>Alexander-Bloch</surname>
+              <given-names>Aaron</given-names>
+            </name>
+            <name>
+              <surname>Fair</surname>
+              <given-names>Damien A.</given-names>
+            </name>
+            <name>
+              <surname>Liston</surname>
+              <given-names>Conor</given-names>
+            </name>
+            <name>
+              <surname>Mackey</surname>
+              <given-names>Allyson P.</given-names>
+            </name>
+            <name>
+              <surname>Milham</surname>
+              <given-names>Michael P.</given-names>
+            </name>
+            <name>
+              <surname>Pines</surname>
+              <given-names>Adam</given-names>
+            </name>
+            <name>
+              <surname>Roalf</surname>
+              <given-names>David R.</given-names>
+            </name>
+            <name>
+              <surname>Seidlitz</surname>
+              <given-names>Jakob</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>Ting</given-names>
+            </name>
+            <name>
+              <surname>Raznahan</surname>
+              <given-names>Armin</given-names>
+            </name>
+            <name>
+              <surname>Satterthwaite</surname>
+              <given-names>Theodore D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Neurodevelopment of the association cortices: Patterns, mechanisms, and implications for psychopathology</article-title>
+          <source>Neuron</source>
+          <publisher-name>Elsevier</publisher-name>
+          <year iso-8601-date="2021-09-15">2021</year>
+          <month>09</month>
+          <day>15</day>
+          <date-in-citation content-type="access-date">
+            <year iso-8601-date="2024-06-08">2024</year>
+            <month>06</month>
+            <day>08</day>
+          </date-in-citation>
+          <volume>109</volume>
+          <issue>18</issue>
+          <issn>0896-6273</issn>
+          <uri>https://www.cell.com/neuron/abstract/S0896-6273(21)00457-8</uri>
+          <pub-id pub-id-type="doi">10.1016/j.neuron.2021.06.016</pub-id>
+          <fpage>2820</fpage>
+          <lpage>2846</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-timimi2005">
+        <element-citation publication-type="article-journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Timimi</surname>
+              <given-names>Sami</given-names>
+            </name>
+            <name>
+              <surname>Radcliffe</surname>
+              <given-names>Nick</given-names>
+            </name>
+          </person-group>
+          <article-title>The rise and rise of ADHD</article-title>
+          <source>Educational Psychology in Practice</source>
+          <year iso-8601-date="2005">2005</year>
+          <volume>21</volume>
+          <issue>2</issue>
+          <pub-id pub-id-type="doi">10.1080/02667360500128785</pub-id>
+          <fpage>147</fpage>
+          <lpage>152</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-wilens2008">
+        <element-citation publication-type="article-journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wilens</surname>
+              <given-names>Timothy E.</given-names>
+            </name>
+            <name>
+              <surname>Adler</surname>
+              <given-names>Lenard A.</given-names>
+            </name>
+            <name>
+              <surname>Adams</surname>
+              <given-names>James</given-names>
+            </name>
+            <name>
+              <surname>Sgambati</surname>
+              <given-names>Stephanie</given-names>
+            </name>
+            <name>
+              <surname>Rotrosen</surname>
+              <given-names>John</given-names>
+            </name>
+            <name>
+              <surname>Sawtelle</surname>
+              <given-names>Robert</given-names>
+            </name>
+            <name>
+              <surname>Utzinger</surname>
+              <given-names>Lisa</given-names>
+            </name>
+            <name>
+              <surname>Fusillo</surname>
+              <given-names>Steven</given-names>
+            </name>
+          </person-group>
+          <article-title>Misuse and diversion of stimulants prescribed for ADHD: A systematic review of the literature</article-title>
+          <source>Journal of Clinical Psychiatry</source>
+          <year iso-8601-date="2008">2008</year>
+          <volume>69</volume>
+          <issue>12</issue>
+          <pub-id pub-id-type="doi">10.4088/jcp.v69n1209</pub-id>
+          <fpage>1862</fpage>
+          <lpage>1870</lpage>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

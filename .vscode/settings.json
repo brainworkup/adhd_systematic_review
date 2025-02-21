@@ -4,5 +4,12 @@
     "sash.hoverBorder": "#dee2fc66",
     "sideBar.border": "#dee2fc66",
     "tab.activeBorder": "#dee2fc66"
+  },
+  "workbench.colorTheme": "Blackboard Pro",
+  "files.exclude": {
+    ".DS_Store": true,
+    ".history": true,
+    ".quarto": true,
+    ".vscode": true
   }
 }
