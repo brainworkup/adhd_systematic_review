@@ -4,42 +4,44 @@
 
 1. Bakare & Jordanova (2020) - Brief screening measure development
 2. Bastiaens & Galus (2018) - ASRS screener comparison DSM-IV vs DSM-5
-3. Chiasson et al. (2012) - ASRS in ADHD + substance abuse populations
-4. Dakwar et al. (2012) - ADHD screening in substance use disorders
-5. Dunlop et al. (2018) - ASRS in major depressive disorder
-6. Eich et al. (2012) - New rating scale based on SCL-90-R
-7. Erhardt et al. (1999) - Self-ratings reliability and validity
-8. Faraone et al. (2000) - Symptom assessment children vs adults
-9. Gift et al. (2021) - Wender Utah Rating Scale psychometrics
-10. Grogan et al (2017) - CAARS, STAI (adhd and anxiety)
-11. Harrison et al (2016) - CAARS
-12. Houston et al. (2011) - Primary care screening instrument
-13. Kessler et al. (2010) - Adult ADHD Clinical Diagnostic Scale
-14. Kwan et al (2024) - CAARS
-15. Lancaster et al (2018) - PAI
-16. Kumar et al. (2011) - MINI, CAARS, Screening in psychiatric inpatients
-17. Lewandowski et al. (2008) - College student symptom reporting
-18. Liu et al. (2023) - Machine learning screening approach
-19. Luderer et al. (2019) - ADHD screening in alcohol dependent patients
-20. Luty et al. (2009) - Self-report validation in substance users
-21. Marchant et al. (2015) - Self-Report Wender-Reimherr Scale
-22. Mattos et al. (2018) - DSM criteria in medical students
-23. McCann & Roy-Byrne (2004) - Self-report scales utility
-24. Mehringer et al. (2002) - Assessment of Hyperactivity and Attention tool
-25. Notzon et al. (2020) - CAADID, ADHD in cannabis use disorders
-26. Palma-Álvarez et al. (2023) - MINI-Plus ADHD module validation
-27. Palmer et al. (2023) - Screening in young autistic adults
-28. Reimherr et al. (2021) - Wender Utah Rating Scale versions
-29. Reyes et al. (2019) - ASRS utility in alcoholics
-30. Singh et al. (2015) - IPDE screening questionnaire
-31. Ustun et al. (2017) - WHO Adult ADHD Self-Report Scale
-32. van de Glind et al. (2013) - ASRS in substance use disorders
-33. Van Voorhees et al. (2011) - Self and other-ratings reliability
-34. Vitola et al. (2017) - DSM-5 criteria exploration
-35. Vizgaitis et al. (2023) - Self-reported symptoms analysis
-36. Young et al. (2016) - BAARS-IV, Prison inmate screening tool
-37. Young et al. (2005) - YAQ-S and YAQ-I symptomatology
-38. Young et al. (2023) - ASSET-BS screening measure development
+3. Chen et al. (2021) - Machine learning ADHD classification
+4. Chiasson et al. (2012) - ASRS in ADHD + substance abuse populations
+5. Dakwar et al. (2012) - ADHD screening in substance use disorders
+6. Dunlop et al. (2018) - ASRS in major depressive disorder
+7. Eich et al. (2012) - New rating scale based on SCL-90-R
+8. Erhardt et al. (1999) - Self-ratings reliability and validity
+9. Faraone et al. (2000) - Symptom assessment children vs adults
+10. Gift et al. (2021) - Wender Utah Rating Scale psychometrics
+11. Grogan et al (2017) - CAARS, STAI (adhd and anxiety)
+12. Harrison et al (2016) - CAARS
+13. Houston et al. (2011) - Primary care screening instrument
+14. Kessler et al. (2010) - Adult ADHD Clinical Diagnostic Scale
+15. Kingston et al (2013) - Multiple measures + CPT
+16. Kwan et al (2024) - CAARS
+17. Lancaster et al (2018) - PAI
+18. Kumar et al. (2011) - MINI, CAARS, Screening in psychiatric inpatients
+19. Lewandowski et al. (2008) - College student symptom reporting
+20. Liu et al. (2023) - Machine learning screening approach
+21. Luderer et al. (2019) - ADHD screening in alcohol dependent patients
+22. Luty et al. (2009) - Self-report validation in substance users
+23. Marchant et al. (2015) - Self-Report Wender-Reimherr Scale
+24. Mattos et al. (2018) - DSM criteria in medical students
+25. McCann & Roy-Byrne (2004) - Self-report scales utility
+26. Mehringer et al. (2002) - Assessment of Hyperactivity and Attention tool
+27. Notzon et al. (2020) - CAADID, ADHD in cannabis use disorders
+28. Palma-Álvarez et al. (2023) - MINI-Plus ADHD module validation
+29. Palmer et al. (2023) - Screening in young autistic adults
+30. Reimherr et al. (2021) - Wender Utah Rating Scale versions
+31. Reyes et al. (2019) - ASRS utility in alcoholics
+32. Singh et al. (2015) - IPDE screening questionnaire
+33. Ustun et al. (2017) - WHO Adult ADHD Self-Report Scale
+34. van de Glind et al. (2013) - ASRS in substance use disorders
+35. Van Voorhees et al. (2011) - Self and other-ratings reliability
+36. Vitola et al. (2017) - DSM-5 criteria exploration
+37. Vizgaitis et al. (2023) - Self-reported symptoms analysis
+38. Young et al. (2016) - BAARS-IV, Prison inmate screening tool
+39. Young et al. (2005) - YAQ-S and YAQ-I symptomatology
+40. Young et al. (2023) - ASSET-BS screening measure development
 
 ## Neuropsychological and Cognitive Tests
 
@@ -52,7 +54,7 @@
 7. Emser et al. (2018) - TAP, QB Test (child and adult), CAARS, Conners-3
    (child) **(exclude?)**
 8. Kovner et al. (1998) - Neuropsychological testing pilot study; multiple tests
-9. Lee Booksh et al. (2010) - Attention measures in college students; multiple tests
+9.  Lee Booksh et al. (2010) - Attention measures in college students; multiple tests
 10. Lev et al. (2022) - MOXO-dCPT with eye tracking
 11. Lovejoy et al. (1999) - Executive function measures (multiple)
 12. Mostert et al. (2015) - DIVA + multiple neuropsychological tests
@@ -72,14 +74,14 @@ Selectivity test
 ## Neuroimaging Studies
 
 1. Amen et al. (2021) - SPECT functional neuroimaging
-2. Alves et al. (2024) - fMRI functional connectivity analysis
+2. Alves et al. (2024) - fMRI functional connectivity analysis, ADHD, ASD
 3. Chaim-Avancini et al. (2017) - MRI pattern recognition
-4. Chen et al. (2021) - Machine learning ADHD classification
-5. Schneider et al. (2014) - SPECT imaging comparison
-6. Wang et al. (2013) - Regional homogeneity patterns
-7. Wang et al. (2023) - Deep learning classification
-8. Wolfers et al. (2016) - Brain activity pattern quantification
-9.  Yao et al. (2018) - Machine learning feature selection
+4. Schneider et al. (2014) - SPECT imaging comparison
+5. Wang et al. (2013) - Regional homogeneity patterns resting-state fMRI
+6. Wang et al. (2023) - Deep learning classification fMRI
+7. Wolfers et al. (2016) - Brain activity pattern quantification, UN
+AFF, ADHD, Controls
+8. Yao et al. (2018) - Machine learning feature selection rs-fMRI
 
 
 ## EEG/Electrophysiological Studies
@@ -99,8 +101,6 @@ analysis
 
 ## Performance Validity/Effort Testing/Symptom Exaggeration
 
-1. Quinn (2003) - Malingering detection
-2. Harrison et al. (2007) - Preliminary detection strategies
 
 ### Performance-based 'embedded' validity indicators
 
@@ -110,14 +110,15 @@ analysis
 4. Khan et al. (2022) - Stroop test embedded indicators
 5. Robinson et al. (2023) - CPT-3 validity indicators
 6. Harrison and Armstrong (2020) - TOVA
-7. Rogers et al. (2021) - WAIS-IV detection strategies
-8. Phillips et al. (2023) - RAVLT + BVMT-R
+8. Rogers et al. (2021) - WAIS-IV detection strategies
+9. Phillips et al. (2023) - RAVLT + BVMT-R
 
 ### Performance-based 'standalone' validity indicators
 
 1. Morey (2019) - Tests of Attentional Distraction (TOAD)
 2. Williamson et al. (2014) - TOMM, LMT, NV-MSVT, DMT
 3. Abramson et al (2023) - Dot Counting Test (DCT)
+4. Fuermaier et al (2016) - Embedded Figures Test
 
 ### Symptom exaggeration rating scales
 
@@ -129,7 +130,7 @@ analysis
 6. Harrison et al. (2022) - PAI validity measures
 7. Musso et al. (2016) - PAI utility
 8. Potts et al. (2022) - Multidimensional ADHD Rating Scale
-9. Ramachandran et al. (2019) - Subtle ADHD Malingering Screener
+9.  Ramachandran et al. (2019) - Subtle ADHD Malingering Screener
 10. Smith et al. (2017) - PAI feigning detection
 11. Young & Gross (2011) - MMPI-2
  
@@ -156,6 +157,6 @@ potential (expressed as membrane potential ratio [MPRTM])
 ## Unclassified/Problematic Studies
 
 1. Groom et al (2016) - CAARS + Autism scale + QB Test
-1. Matte et al (2015) - Checking DSM-5 criteria for adults (e.g., lowering
+2. Matte et al (2015) - Checking DSM-5 criteria for adults (e.g., lowering
    threshold)
-**3. Harrison & Armstrong (2020) - TOVA performance differences**
+3. Gillen (2003) - Dissertation
