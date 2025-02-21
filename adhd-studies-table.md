@@ -94,40 +94,50 @@
 5. Woodruff et al. (2011) - Diagnostic blood test
 6. Jiminez et al (2021) - Eye vergence/oculomotor
 
-## Performance Validity/Effort Testing
+## Performance Validity/Effort Testing/Symptom Exaggeration
 
-1. Cook et al. (2016) - Conners' Infrequency Index validation
-2. Courrégé et al. (2019) - ADHD Symptom Infrequency Scale
+1. Courrégé et al. (2019) - ADHD Symptom Infrequency Scale
+2. Harrison & Armstrong (2016) - Symptom validity index
+3. Harrison et al. (2007) - Preliminary detection strategies
+4. Potts et al. (2022) - Feigned ADHD identification
+5. Quinn (2003) - Malingering detection
+6. Ramachandran et al. (2019) - Subtle ADHD Malingering Screener
+7. Williamson et al. (2014) - ADHD discrimination with comorbidity
+8. Young & Gross (2011) - Response bias detection
+
+### Performance-based 'embedded' validity indicators
+
+1. Becke et al (2023) - Comprehensive Neuropsychological Test Battery + WURS
+2. Berger et al (2021) - MOXO-d-CPT
 3. Finley et al. (2023) - Embedded performance validity indicators
-4. Harrison & Armstrong (2016) - Symptom validity index
-5. Harrison et al. (2007) - Preliminary detection strategies
-6.  Potts et al. (2022) - Feigned ADHD identification
-7.  Quinn (2003) - Malingering detection
-8.  Ramachandran et al. (2019) - Subtle ADHD Malingering Screener
-9.  Sollman et al. (2010) - Feigned ADHD detection in college
-10. Williamson et al. (2014) - ADHD discrimination with comorbidity
-11. Young & Gross (2011) - Response bias detection
+4. Khan et al. (2022) - Stroop test embedded indicators
+5. Robinson et al. (2023) - CPT-3 validity indicators
+6. Harrison and Armstrong (2020) - TOVA
+7. Rogers et al. (2021) - WAIS-IV detection strategies
+8. Phillips et al. (2023) - RAVLT + BVMT-R
 
-### Performance-based embedded validity indicators
+### Performance-based 'standalone' validity indicators
 
-1.  Robinson et al. (2023) - CPT-3 validity indicators
-2.  Rogers et al. (2021) - WAIS-IV detection strategies
-3.  Morey (2019) - Novel performance validity task
-4.  Phillips et al. (2023) - Embedded validity indices
-
-### Performance-based standalone validity indicators
+1. Morey (2019) - Novel performance validity task
 
 ### Symptom exaggeration rating scales
 
-1.  Smith et al. (2017) - PAI feigning detection
-2.  Musso et al. (2016) - PAI utility
-3.  Harrison et al. (2022) - PAI validity measures
-4.  Marshall et al. (2010) - Symptom validity measures
-5.  Aita et al. (2018) - Personality Assessment Inventory feigning
+1. Smith et al. (2017) - PAI feigning detection
+2. Musso et al. (2016) - PAI utility
+3. Harrison et al. (2022) - PAI validity measures
+4. Marshall et al. (2010) - Symptom validity measures
+5. Aita et al. (2018) - Personality Assessment Inventory feigning
+6. Cook et al. (2016) - Conners' Infrequency Index validation
+7.  
+
+### Combined Neurocog Test + Rating Scale
+
+1. Sollman et al. (2010) - CAARS + TOMM, LMT, NVMST
+2. Quinn (2003) - ADHD Behav Checklist + IVA CPT
 
 
 
-## Unclassified
+## Unclassified/Problematic
 
 1. Groom et al (2016) - CAARS + Autism scale + QB Test
-2. 
+2. Matte et al (2015) - Checking DSM-5 criteria for adults
