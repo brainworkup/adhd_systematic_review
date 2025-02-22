@@ -1,0 +1,576 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="mindmap" class="markmap mindmap"><style>.markmap {
+  --markmap-max-width: 9999px;
+  --markmap-a-color: #0097e6;
+  --markmap-a-hover-color: #00a8ff;
+  --markmap-code-bg: #f0f0f0;
+  --markmap-code-color: #555;
+  --markmap-highlight-bg: #ffeaa7;
+  --markmap-table-border: 1px solid currentColor;
+  --markmap-font: 300 16px/20px sans-serif;
+  --markmap-circle-open-bg: #fff;
+  --markmap-text-color: #333;
+  --markmap-highlight-node-bg: #ff02;
+
+  font: var(--markmap-font);
+  color: var(--markmap-text-color);
+}
+
+  .markmap-link {
+    fill: none;
+  }
+
+  .markmap-node &gt; circle {
+      cursor: pointer;
+    }
+
+  .markmap-foreign {
+    display: inline-block;
+  }
+
+  .markmap-foreign p {
+      margin: 0;
+    }
+
+  .markmap-foreign a {
+      color: var(--markmap-a-color);
+    }
+
+  .markmap-foreign a:hover {
+        color: var(--markmap-a-hover-color);
+      }
+
+  .markmap-foreign code {
+      padding: 0.25em;
+      font-size: calc(1em - 2px);
+      color: var(--markmap-code-color);
+      background-color: var(--markmap-code-bg);
+      border-radius: 2px;
+    }
+
+  .markmap-foreign pre {
+      margin: 0;
+    }
+
+  .markmap-foreign pre &gt; code {
+        display: block;
+      }
+
+  .markmap-foreign del {
+      text-decoration: line-through;
+    }
+
+  .markmap-foreign em {
+      font-style: italic;
+    }
+
+  .markmap-foreign strong {
+      font-weight: bold;
+    }
+
+  .markmap-foreign mark {
+      background: var(--markmap-highlight-bg);
+    }
+
+  .markmap-foreign table,
+    .markmap-foreign th,
+    .markmap-foreign td {
+      border-collapse: collapse;
+      border: var(--markmap-table-border);
+    }
+
+  .markmap-foreign img {
+      display: inline-block;
+    }
+
+  .markmap-foreign svg {
+      fill: currentColor;
+    }
+
+  .markmap-foreign &gt; div {
+      width: var(--markmap-max-width);
+      text-align: left;
+    }
+
+  .markmap-foreign &gt; div &gt; div {
+        display: inline-block;
+      }
+
+  .markmap-highlight rect {
+    fill: var(--markmap-highlight-node-bg);
+  }
+
+.markmap-dark .markmap {
+  --markmap-code-bg: #1a1b26;
+  --markmap-code-color: #ddd;
+  --markmap-circle-open-bg: #444;
+  --markmap-text-color: #eee;
+}
+</style><g transform="translate(24.000000000000057,413.0066970219459) scale(0.5746691871455576)"><path class="markmap-link" data-depth="3" data-path="1.2.3" d="M440,-380.437C480,-380.437,480,-211.625,520,-211.625" stroke-width="1.375" stroke="rgb(44, 160, 44)"/><path class="markmap-link" data-depth="3" data-path="1.4.5" d="M476,-84.562C516,-84.562,516,10.75,556,10.75" stroke-width="1.375" stroke="rgb(148, 103, 189)"/><path class="markmap-link" data-depth="3" data-path="1.6.7" d="M374,148.313C414,148.313,414,254.125,454,254.125" stroke-width="1.375" stroke="rgb(227, 119, 194)"/><path class="markmap-link" data-depth="3" data-path="1.8.9" d="M427,402.188C467,402.188,467,518.5,507,518.5" stroke-width="1.375" stroke="rgb(188, 189, 34)"/><path class="markmap-link" data-depth="2" data-path="1.2" d="M0,1.25C40,1.25,40,-380.437,80,-380.437" stroke-width="1.75" stroke="rgb(255, 127, 14)"/><path class="markmap-link" data-depth="2" data-path="1.4" d="M0,1.25C40,1.25,40,-84.562,80,-84.562" stroke-width="1.75" stroke="rgb(214, 39, 40)"/><path class="markmap-link" data-depth="2" data-path="1.6" d="M0,1.25C40,1.25,40,148.313,80,148.313" stroke-width="1.75" stroke="rgb(140, 86, 75)"/><path class="markmap-link" data-depth="2" data-path="1.8" d="M0,1.25C40,1.25,40,402.188,80,402.188" stroke-width="1.75" stroke="rgb(127, 127, 127)"/><g class="markmap-highlight"/><g data-depth="3" data-path="1.2.3" class="markmap-node" transform="translate(520, -570.3125)"><line stroke="#2ca02c" stroke-width="1.375" x1="-1" x2="897" y1="358.6875" y2="358.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="879" height="358"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="2,20">
+<thead data-lines="2,3">
+<tr data-lines="2,3">
+<th>Test Name</th>
+<th>Core Parameters</th>
+<th>Administration Time</th>
+<th>Stimuli Type</th>
+<th>Response Method</th>
+<th>Output Metrics</th>
+<th>Normative Data</th>
+</tr>
+</thead>
+<tbody data-lines="4,20">
+<tr data-lines="4,5">
+<td>QbTest+</td>
+<td>- Attention</td>
+<td>20 min</td>
+<td>Visual:</td>
+<td>Handheld</td>
+<td>- Q-scores</td>
+<td>Age-stratified</td>
+</tr>
+<tr data-lines="5,6">
+<td></td>
+<td>- Impulsivity</td>
+<td></td>
+<td>- Red/blue</td>
+<td>responder</td>
+<td>- Raw scores</td>
+<td>norms for</td>
+</tr>
+<tr data-lines="6,7">
+<td></td>
+<td>- Activity</td>
+<td></td>
+<td>- Circles/squares</td>
+<td></td>
+<td>- Motion data</td>
+<td>12-60 years</td>
+</tr>
+<tr data-lines="7,8">
+<td></td>
+<td>- Motion tracking</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr data-lines="8,9">
+<td>MOXO-d</td>
+<td>- Attention</td>
+<td>Variable</td>
+<td>Visual +</td>
+<td>Keyboard</td>
+<td>- Attention score</td>
+<td>Yes, age</td>
+</tr>
+<tr data-lines="9,10">
+<td></td>
+<td>- Timing</td>
+<td></td>
+<td>Environmental</td>
+<td></td>
+<td>- Timing score</td>
+<td>and gender</td>
+</tr>
+<tr data-lines="10,11">
+<td></td>
+<td>- Impulsivity</td>
+<td></td>
+<td>distractors</td>
+<td></td>
+<td>- Impulsivity</td>
+<td>specific</td>
+</tr>
+<tr data-lines="11,12">
+<td></td>
+<td>- Hyperactivity</td>
+<td></td>
+<td></td>
+<td></td>
+<td>- Hyperactivity</td>
+<td></td>
+</tr>
+<tr data-lines="12,13">
+<td>Conners CPT</td>
+<td>- Omissions</td>
+<td>14 min</td>
+<td>Letters</td>
+<td>Spacebar</td>
+<td>- T-scores</td>
+<td>Yes</td>
+</tr>
+<tr data-lines="13,14">
+<td></td>
+<td>- Commissions</td>
+<td></td>
+<td></td>
+<td></td>
+<td>- Percentiles</td>
+<td></td>
+</tr>
+<tr data-lines="14,15">
+<td></td>
+<td>- Hit RT</td>
+<td></td>
+<td></td>
+<td></td>
+<td>- Confidence</td>
+<td></td>
+</tr>
+<tr data-lines="15,16">
+<td></td>
+<td>- Variability</td>
+<td></td>
+<td></td>
+<td></td>
+<td>index</td>
+<td></td>
+</tr>
+<tr data-lines="16,17">
+<td>TOVA</td>
+<td>- Response time</td>
+<td>21.6 min</td>
+<td>Geometric</td>
+<td>Microswitch</td>
+<td>- Standard</td>
+<td>Yes</td>
+</tr>
+<tr data-lines="17,18">
+<td></td>
+<td>- Variability</td>
+<td></td>
+<td>shapes</td>
+<td></td>
+<td>scores</td>
+<td></td>
+</tr>
+<tr data-lines="18,19">
+<td></td>
+<td>- Commissions</td>
+<td></td>
+<td></td>
+<td></td>
+<td>- Attention</td>
+<td></td>
+</tr>
+<tr data-lines="19,20">
+<td></td>
+<td>- Omissions</td>
+<td></td>
+<td></td>
+<td></td>
+<td>comparison</td>
+<td></td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="2" data-path="1.2" class="markmap-node" transform="translate(80, -401.3125)"><line stroke="#ff7f0e" stroke-width="1.75" x1="-1" x2="362" y1="20.875" y2="20.875"/><circle stroke-width="1.5" r="6" stroke="#ff7f0e" fill="var(--markmap-circle-open-bg)" cx="360" cy="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="344" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Table 3: Test-Specific Measures and Parameters</div></div></foreignObject></g><g data-depth="3" data-path="1.4.5" class="markmap-node" transform="translate(556, -200.9375)"><line stroke="#9467bd" stroke-width="1.375" x1="-1" x2="1033" y1="211.6875" y2="211.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="1015" height="211"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="23,34">
+<thead data-lines="23,24">
+<tr data-lines="23,24">
+<th>Study ID</th>
+<th>Age Range</th>
+<th>Gender (% male)</th>
+<th>Education Level</th>
+<th>Comorbidities</th>
+<th>Medication Status</th>
+<th>Key Inclusion Criteria</th>
+<th>Key Exclusion Criteria</th>
+</tr>
+</thead>
+<tbody data-lines="25,34">
+<tr data-lines="25,26">
+<td>Edebol 2013</td>
+<td>18-60</td>
+<td>65.2</td>
+<td>NR</td>
+<td>None reported</td>
+<td>Medication naive</td>
+<td>- Age ≥18</td>
+<td>- IQ &lt; 70</td>
+</tr>
+<tr data-lines="26,27">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>- English fluency</td>
+<td>- Neurological disorders</td>
+</tr>
+<tr data-lines="27,28">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>- Normal IQ</td>
+<td></td>
+</tr>
+<tr data-lines="28,29">
+<td>Hult 2018</td>
+<td>NR</td>
+<td>NR</td>
+<td>NR</td>
+<td>ASD (81% of</td>
+<td>NR</td>
+<td>- ADHD or ASD dx</td>
+<td>NR</td>
+</tr>
+<tr data-lines="29,30">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>controls)</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr data-lines="30,31">
+<td>Berger 2021</td>
+<td>College</td>
+<td>NR</td>
+<td>University</td>
+<td>Excluded</td>
+<td>Excluded</td>
+<td>- University students</td>
+<td>- Prior psychiatric dx</td>
+</tr>
+<tr data-lines="31,32">
+<td></td>
+<td>age</td>
+<td></td>
+<td>students</td>
+<td></td>
+<td></td>
+<td>- No prior ADHD dx</td>
+<td>- Current medication</td>
+</tr>
+<tr data-lines="32,33">
+<td>Solanto 2004</td>
+<td>Adult</td>
+<td>NR</td>
+<td>NR</td>
+<td>Mixed clinical</td>
+<td>Variable</td>
+<td>- Adult age</td>
+<td>NR</td>
+</tr>
+<tr data-lines="33,34">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>sample</td>
+<td></td>
+<td>- Clinical referral</td>
+<td></td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="2" data-path="1.4" class="markmap-node" transform="translate(80, -105.4375)"><line stroke="#d62728" stroke-width="1.75" x1="-1" x2="398" y1="20.875" y2="20.875"/><circle stroke-width="1.5" r="6" stroke="#d62728" fill="var(--markmap-circle-open-bg)" cx="396" cy="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="380" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Table 4: Sample Demographics and Inclusion Criteria</div></div></foreignObject></g><g data-depth="3" data-path="1.6.7" class="markmap-node" transform="translate(454, 21.4375)"><line stroke="#e377c2" stroke-width="1.375" x1="-1" x2="847" y1="232.6875" y2="232.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="829" height="232"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="37,49">
+<thead data-lines="37,38">
+<tr data-lines="37,38">
+<th>Study ID</th>
+<th>Setting Type</th>
+<th>Country</th>
+<th>Referral Source</th>
+<th>Diagnostic Process</th>
+<th>Staff Qualifications</th>
+<th>Testing Environment</th>
+</tr>
+</thead>
+<tbody data-lines="39,49">
+<tr data-lines="39,40">
+<td>Edebol 2013</td>
+<td>Specialist</td>
+<td>UK</td>
+<td>Healthcare</td>
+<td>Multi-method:</td>
+<td>- Psychiatrists</td>
+<td>Standardized</td>
+</tr>
+<tr data-lines="40,41">
+<td></td>
+<td>ADHD clinic</td>
+<td></td>
+<td>professionals</td>
+<td>- Clinical interview</td>
+<td>- Psychologists</td>
+<td>testing room</td>
+</tr>
+<tr data-lines="41,42">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>- Rating scales</td>
+<td></td>
+<td></td>
+</tr>
+<tr data-lines="42,43">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>- CPT</td>
+<td></td>
+<td></td>
+</tr>
+<tr data-lines="43,44">
+<td>Hult 2018</td>
+<td>Clinical</td>
+<td>Sweden</td>
+<td>Mixed</td>
+<td>DSM-5 based</td>
+<td>Clinical team</td>
+<td>Clinical</td>
+</tr>
+<tr data-lines="44,45">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>assessment</td>
+<td></td>
+<td>setting</td>
+</tr>
+<tr data-lines="45,46">
+<td>Berger 2021</td>
+<td>Research</td>
+<td>Israel</td>
+<td>Student</td>
+<td>Experimental</td>
+<td>Research team</td>
+<td>Lab setting</td>
+</tr>
+<tr data-lines="46,47">
+<td></td>
+<td>lab</td>
+<td></td>
+<td>volunteers</td>
+<td>protocol</td>
+<td></td>
+<td></td>
+</tr>
+<tr data-lines="47,48">
+<td>Solanto 2004</td>
+<td>Clinical</td>
+<td>US</td>
+<td>Mixed</td>
+<td>DSM-IV</td>
+<td>Clinicians</td>
+<td>Clinical</td>
+</tr>
+<tr data-lines="48,49">
+<td></td>
+<td></td>
+<td></td>
+<td>clinical</td>
+<td>criteria</td>
+<td></td>
+<td>setting</td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="2" data-path="1.6" class="markmap-node" transform="translate(80, 127.4375)"><line stroke="#8c564b" stroke-width="1.75" x1="-1" x2="296" y1="20.875" y2="20.875"/><circle stroke-width="1.5" r="6" stroke="#8c564b" fill="var(--markmap-circle-open-bg)" cx="294" cy="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="278" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Table 5: Clinical Setting Characteristics</div></div></foreignObject></g><g data-depth="3" data-path="1.8.9" class="markmap-node" transform="translate(507, 264.8125)"><line stroke="#bcbd22" stroke-width="1.375" x1="-1" x2="712" y1="253.6875" y2="253.6875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="694" height="253"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><table data-lines="52,65">
+<thead data-lines="52,53">
+<tr data-lines="52,53">
+<th>Study ID</th>
+<th>Patient Selection</th>
+<th>Index Test</th>
+<th>Reference Standard</th>
+<th>Flow and Timing</th>
+<th>Overall Risk</th>
+</tr>
+</thead>
+<tbody data-lines="54,65">
+<tr data-lines="54,55">
+<td>Edebol 2013</td>
+<td>Low</td>
+<td>Low</td>
+<td>Low</td>
+<td>Low</td>
+<td>Low</td>
+</tr>
+<tr data-lines="55,56">
+<td></td>
+<td>- Consecutive</td>
+<td>- Predefined</td>
+<td>- Clinical dx</td>
+<td>- Appropriate</td>
+<td></td>
+</tr>
+<tr data-lines="56,57">
+<td></td>
+<td>- No exclusions</td>
+<td>threshold</td>
+<td>- Blinded</td>
+<td>interval</td>
+<td></td>
+</tr>
+<tr data-lines="57,58">
+<td>Hult 2018</td>
+<td>High</td>
+<td>Low</td>
+<td>Unclear</td>
+<td>Low</td>
+<td>Moderate</td>
+</tr>
+<tr data-lines="58,59">
+<td></td>
+<td>- Selected</td>
+<td>- Standard</td>
+<td>- Varied</td>
+<td>- All included</td>
+<td></td>
+</tr>
+<tr data-lines="59,60">
+<td></td>
+<td>- ASD controls</td>
+<td>protocol</td>
+<td>assessors</td>
+<td>in analysis</td>
+<td></td>
+</tr>
+<tr data-lines="60,61">
+<td>Berger 2021</td>
+<td>High</td>
+<td>Low</td>
+<td>High</td>
+<td>Low</td>
+<td>High</td>
+</tr>
+<tr data-lines="61,62">
+<td></td>
+<td>- Convenience</td>
+<td>- Standard</td>
+<td>- Non-clinical</td>
+<td>- Complete</td>
+<td></td>
+</tr>
+<tr data-lines="62,63">
+<td></td>
+<td>- Students only</td>
+<td>protocol</td>
+<td>sample</td>
+<td>data</td>
+<td></td>
+</tr>
+<tr data-lines="63,64">
+<td>Solanto 2004</td>
+<td>Unclear</td>
+<td>Unclear</td>
+<td>Low</td>
+<td>Unclear</td>
+<td>Unclear</td>
+</tr>
+<tr data-lines="64,65">
+<td></td>
+<td>- Selection NR</td>
+<td>- Protocol NR</td>
+<td>- Standard dx</td>
+<td>- Timing NR</td>
+<td></td>
+</tr>
+</tbody>
+</table></div></div></foreignObject></g><g data-depth="2" data-path="1.8" class="markmap-node" transform="translate(80, 381.3125)"><line stroke="#7f7f7f" stroke-width="1.75" x1="-1" x2="349" y1="20.875" y2="20.875"/><circle stroke-width="1.5" r="6" stroke="#7f7f7f" fill="var(--markmap-circle-open-bg)" cx="347" cy="20.875"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="331" height="20"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml">Table 6: Risk of Bias Assessment (QUADAS-2)</div></div></foreignObject></g><g data-depth="1" data-path="1" class="markmap-node" transform="translate(0,0)"><line stroke="#1f77b4" stroke-width="2.5" x1="-1" x2="2" y1="1.25" y2="1.25"/><circle stroke-width="1.5" r="6" stroke="#1f77b4" fill="var(--markmap-circle-open-bg)" cx="0" cy="1.25"/><foreignObject class="markmap-foreign" x="8" y="0" style="opacity: 1;" width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml"><div xmlns="http://www.w3.org/1999/xhtml"></div></div></foreignObject></g></g></svg>
