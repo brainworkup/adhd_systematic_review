@@ -1,6 +1,7 @@
 library(tidyverse)
 library(pdftools)
 library(here)
+library(purrr)
 
 process_papers <- function(pdf_dir) {
   pdf_files <- list.files(pdf_dir, pattern = ".pdf$", full.names = TRUE)
