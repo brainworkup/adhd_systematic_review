@@ -40,7 +40,7 @@ vignettes/*.pdf
 .Renviron
 
 # pkgdown site
-docs/
+# docs/
 
 # translation temp files
 po/*~
@@ -71,4 +71,6 @@ Child Psychology Psychiatry - 2008 - Halperin - Neuropsychological outcome in ad
 data/raw_pdfs/
 EPC/
 distiller/
-_manuscript/index-meca.zip
+# _manuscript/index-meca.zip
+adhd_systematic_review.Rproj
+Untitled Bibliography.rtf

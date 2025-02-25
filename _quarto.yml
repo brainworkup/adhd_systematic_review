@@ -1,5 +1,8 @@
 project:
   type: manuscript
+  output-dir: _manuscript
+  render:
+    - index.qmd
 
 manuscript:
   article: index.qmd
@@ -14,3 +17,4 @@ format:
 
 execute:
   freeze: true
+bibliography: references.bib

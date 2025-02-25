@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving
+and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd">
+
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.2" article-type="other">
+
+<front>
+
+
+<article-meta>
+
+
+<title-group>
+<article-title>Adult ADHD Systematic Review</article-title>
+</title-group>
+
+<contrib-group>
+<contrib contrib-type="author" corresp="yes">
+<name>
+<surname>Joey W. Trampush</surname>
+<given-names>Ph.D.</given-names>
+</name>
+<string-name>Joey W. Trampush, Ph.D.</string-name>
+
+<role vocab="https://credit.niso.org" vocab-term="writing – original
+draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">writing</role>
+<xref ref-type="aff" rid="aff-1">a</xref>
+<xref ref-type="corresp" rid="cor-1">&#x002A;</xref>
+</contrib>
+</contrib-group>
+<aff id="aff-1">
+<institution-wrap>
+<institution>University of Southern California</institution>
+</institution-wrap>
+
+
+
+
+
+
+
+</aff>
+<author-notes>
+<corresp id="cor-1"></corresp>
+</author-notes>
+
+
+
+
+
+
+
+
+
+<history></history>
+
+
+
+
+
+
+</article-meta>
+
+</front>
+
+<body>
+<sec id="introduction">
+  <title>Introduction</title>
+  <p>Attention-Deficit/Hyperactivity Disorder (ADHD) in adults presents
+  a significant challenge in clinical practice due to its complex
+  presentation, high comorbidity, and the varying responses to
+  treatment. Clinicians, patients, and stakeholders must navigate
+  several decisional dilemmas when diagnosing and treating ADHD in
+  adults. Here, we address the key decisional dilemmas and current
+  controversies and challenges in diagnosing ADHD in adults.</p>
+  <p>Attention-deficit/hyperactivity disorder (ADHD) is a
+  neurodevelopmental condition characterized by persistent patterns of
+  inattention, hyperactivity, and impulsivity. While it is commonly
+  diagnosed in children, ADHD frequently persists into adulthood,
+  presenting unique challenges for diagnosis and management. This
+  section explores the key decisional dilemmas faced by clinicians,
+  patients, and stakeholders in diagnosing and treating adult ADHD.</p>
+</sec>
+<sec id="background">
+  <title>Background</title>
+  <sec id="trajectory-of-adhd-across-development">
+    <title>Trajectory of ADHD across development</title>
+    <p>ADHD typically presents early in life, most often diagnosed and
+    treated between early childhood and adolescence. Less commonly, ADHD
+    can insidiously emerge in adulthood in individuals with no history
+    of inattention, hyperactivity, or impulsivity in childhood. Notably,
+    longitudinal data from the MTA ADHD Treatment Study suggests 90-95%
+    of “adult-onset ADHD” is better accounted for by comorbid
+    psychopathology, personality disorders, and/or substance use
+    disorders <italic>misdiagnosed</italic> as ADHD
+    (<xref alt="sibley2017?" rid="ref-sibley2017" ref-type="bibr"><bold>sibley2017?</bold></xref>).
+    The later-onset expression of ADHD thus appears to be a syndrome
+    distinct from childhood-onset ADHD.</p>
+  </sec>
+  <sec id="executive-dysfunction-in-emerging-adulthood">
+    <title>Executive dysfunction in emerging adulthood</title>
+    <p>Seeking evaluation and treatment for ADHD <italic>for the first
+    time</italic> continues to increase, and is especially salient on
+    college campuses, where the use/misuse of prescription stimulant
+    medication as a cognitive-enhancing drug is rising faster than the
+    actual incidence of the disorder
+    (<xref alt="benson2015?" rid="ref-benson2015" ref-type="bibr"><bold>benson2015?</bold></xref>).
+    The volume of college students seeking an evaluation for ADHD to
+    obtain test-taking and other academic accommodations has increased
+    in parallel.</p>
+    <p>Critically, interconnected heteromodal networks of association
+    cortex that control higher executive cognitive functions are still
+    maturing during college
+    (<xref alt="sydnorNeurodevelopmentAssociationCortices2021?" rid="ref-sydnorNeurodevelopmentAssociationCortices2021" ref-type="bibr"><bold>sydnorNeurodevelopmentAssociationCortices2021?</bold></xref>).
+    It is therefore plausible that generalized <italic>executive
+    dysfunction</italic>, not undiagnosed ADHD per se, is underlying
+    most clinical referrals for ADHD in college students. As such, we
+    posit executive dysfunction is at the core of the real-world
+    problems facing college students who self-refer for ADHD evaluation
+    and treatment, which accentuates the comorbid difficulties these
+    students face such as problematic drug and alcohol use, emotional
+    dysregulation, and school failure.</p>
+  </sec>
+  <sec id="limited-diagnostic-tools-to-assess-adhd-and-executive-functioning-in-college-students">
+    <title>Limited diagnostic tools to assess ADHD and executive
+    functioning in college students</title>
+    <p>Independent of when symptoms first present, the proliferation of
+    adult-onset ADHD, whether real or feigned, signifies an increase in
+    the demand to evaluate and treat ADHD across the lifespan. However,
+    <italic>clinicians do not have evidence-based, objective
+    psychodiagnostic tools</italic> (e.g., rating scales,
+    neuropsychological measures) available to evaluate ADHD/EF in this
+    specific population <italic>that grows each year</italic>. Poor
+    diagnostic tools lead to inaccurate and misleading conclusions,
+    which can result in clinicians making wasteful/cost-ineffective,
+    inappropriate, or potentially even harmful treatment
+    recommendations. If we fail to implement clinical assessment tools
+    sensitive to <italic>symptom validity</italic> and
+    <italic>performance validity</italic> during evaluations, we will
+    continue to <italic>overdiagnose</italic> and treat college students
+    and adults from the community faking ADHD for secondary gain, and
+    <italic>underdiagnose</italic> those with actual ADHD who need
+    medical and/or academic intervention.</p>
+  </sec>
+  <sec id="diagnostic-tools-and-approaches">
+    <title>Diagnostic Tools and Approaches</title>
+    <list list-type="bullet">
+      <list-item>
+        <p><bold>Use of Standardized Tools</bold>: Reliable diagnosis
+        requires standardized rating scales and input from multiple
+        informants, including self-reports, and observations by family
+        members and colleagues.</p>
+      </list-item>
+      <list-item>
+        <p><bold>Clinical Judgment vs. Standardized Assessment</bold>:
+        Clinician judgment, while essential, may be supplemented by
+        objective tools such as neuropsychological tests and behavioral
+        assessments to enhance diagnostic accuracy.</p>
+      </list-item>
+    </list>
+  </sec>
+  <sec id="differential-diagnosis">
+    <title>Differential Diagnosis</title>
+    <list list-type="bullet">
+      <list-item>
+        <p><bold>Comorbidity with Other Disorders</bold>: Adults with
+        ADHD often present with comorbid psychiatric conditions such as
+        depression, anxiety, and substance use disorders, complicating
+        the diagnostic process. Accurate differentiation between ADHD
+        and these conditions is crucial.</p>
+      </list-item>
+      <list-item>
+        <p><bold>Overlap with Other Symptoms</bold>: Symptoms of ADHD,
+        such as inattention, can overlap with those of other psychiatric
+        disorders, making differential diagnosis challenging.</p>
+      </list-item>
+    </list>
+  </sec>
+  <sec id="cultural-and-socioeconomic-factors">
+    <title>Cultural and Socioeconomic Factors</title>
+    <list list-type="bullet">
+      <list-item>
+        <p><bold>Bias and Accessibility</bold>: Diagnostic practices may
+        be influenced by cultural biases and socioeconomic factors,
+        leading to disparities in diagnosis rates among different
+        demographic groups. It is important to consider these factors to
+        ensure equitable access to diagnosis and treatment.</p>
+      </list-item>
+    </list>
+  </sec>
+  <sec id="impact">
+    <title>Impact</title>
+    <p>ADHD remains improperly diagnosed and treated in tens of
+    thousands of promising college students, younger adults, and older
+    adults. The consequences of aberrant diagnosis and treatment of ADHD
+    during this critical stage of emerging adulthood and beyond can lead
+    to functional impairments in school/work performance, educational
+    attainment, career development, social-emotional development, and
+    family and community life. The need for evidence-based diagnostic
+    tools specific to this rapidly growing clinical population is
+    urgently stronger than ever.</p>
+  </sec>
+</sec>
+<sec id="key-decisional-dilemmas">
+  <title>Key Decisional Dilemmas</title>
+  <p>The primary decisional dilemmas for clinicians, patients, and
+  stakeholders in diagnosing and managing ADHD in adults involve the
+  following considerations:</p>
+  <list list-type="bullet">
+    <list-item>
+      <p><bold>Diagnosis Challenges</bold>: Clinicians must decide
+      whether presenting symptoms are due to ADHD or other comorbid
+      conditions such as anxiety, depression, or substance use disorders
+      (<xref alt="kooij2010?" rid="ref-kooij2010" ref-type="bibr"><bold>kooij2010?</bold></xref>).</p>
+    </list-item>
+    <list-item>
+      <p><bold>Treatment Initiation</bold>: Decisions regarding who
+      should initiate treatment (e.g., primary care vs. specialty care)
+      and when to start treatment are crucial
+      (<xref alt="nice2018?" rid="ref-nice2018" ref-type="bibr"><bold>nice2018?</bold></xref>).</p>
+    </list-item>
+    <list-item>
+      <p><bold>Treatment Alternatives</bold>: Providers need to
+      determine the most effective treatment modalities, including
+      pharmacological and non-pharmacological interventions
+      (<xref alt="cortese2018?" rid="ref-cortese2018" ref-type="bibr"><bold>cortese2018?</bold></xref>).
+      Further, clinicians must weigh the benefits and risks of stimulant
+      medications versus non-stimulant medications
+      (<xref alt="bolea2014?" rid="ref-bolea2014" ref-type="bibr"><bold>bolea2014?</bold></xref>).</p>
+    </list-item>
+    <list-item>
+      <p><bold>Patient Characteristics</bold>: Treatment effectiveness
+      may vary based on individual patient characteristics such as age,
+      sex, and comorbid conditions
+      (<xref alt="faraone2015?" rid="ref-faraone2015" ref-type="bibr"><bold>faraone2015?</bold></xref>).</p>
+    </list-item>
+    <list-item>
+      <p><bold>Cultural Considerations</bold>: Cultural differences may
+      impact the presentation, diagnosis, and treatment of ADHD in
+      adults
+      (<xref alt="bruss2012?" rid="ref-bruss2012" ref-type="bibr"><bold>bruss2012?</bold></xref>).</p>
+    </list-item>
+    <list-item>
+      <p><bold>Unintended Consequences</bold>: The potential for
+      stimulant diversion and misuse is a significant concern when
+      prescribing stimulant medications
+      (<xref alt="wilens2008?" rid="ref-wilens2008" ref-type="bibr"><bold>wilens2008?</bold></xref>).</p>
+    </list-item>
+    <list-item>
+      <p><bold>Identification and Assessment</bold>: What are the most
+      effective and reliable methods for diagnosing ADHD in adults?
+      Considerations include standardized diagnostic criteria, use of
+      rating scales, and the role of clinical interviews. Further,
+      referral for neuropsychological evaluation for adult ADHD is
+      increasingly common, given the complexity and heterogeneity of the
+      disorder.
+      (<xref alt="barkley2008?" rid="ref-barkley2008" ref-type="bibr"><bold>barkley2008?</bold></xref>)</p>
+    </list-item>
+    <list-item>
+      <p><bold>Differential Diagnosis</bold>: How can clinicians
+      distinguish ADHD from other psychiatric conditions such as
+      anxiety, depression, or personality disorders
+      (<xref alt="kooij2010?" rid="ref-kooij2010" ref-type="bibr"><bold>kooij2010?</bold></xref>)?</p>
+    </list-item>
+    <list-item>
+      <p><bold>Cultural and Socioeconomic Factors</bold>: How do
+      cultural perceptions and socioeconomic status affect the diagnosis
+      of ADHD in adults
+      (<xref alt="ramos-quiroga2012?" rid="ref-ramos-quiroga2012" ref-type="bibr"><bold>ramos-quiroga2012?</bold></xref>)?</p>
+    </list-item>
+    <list-item>
+      <p><bold>Stigma and Misdiagnosis</bold>: What impact does stigma
+      have on the diagnosis of ADHD in adults, and how can misdiagnosis
+      be minimized
+      (<xref alt="timimi2005?" rid="ref-timimi2005" ref-type="bibr"><bold>timimi2005?</bold></xref>)?</p>
+    </list-item>
+  </list>
+</sec>
+<sec id="controversies-and-challenges">
+  <title>Controversies and Challenges</title>
+  <p>Diagnosing ADHD in adults is inherently challenging. Symptoms such
+  as inattention, hyperactivity, and impulsivity often overlap with
+  other psychiatric conditions, making differential diagnosis difficult.
+  Clinicians must consider the chronicity of symptoms from childhood
+  through adulthood and assess functional impairment in various settings
+  (<xref alt="culpepper2008?" rid="ref-culpepper2008" ref-type="bibr"><bold>culpepper2008?</bold></xref>).</p>
+  <list list-type="bullet">
+    <list-item>
+      <p><bold>Different Practices</bold>: There is significant
+      variability in diagnostic practices. While some clinicians use
+      structured diagnostic interviews and validated rating scales,
+      others rely on clinical judgment. This inconsistency can lead to
+      both over-diagnosis and under-diagnosis of ADHD
+      (<xref alt="culpepper2008?" rid="ref-culpepper2008" ref-type="bibr"><bold>culpepper2008?</bold></xref>).</p>
+    </list-item>
+    <list-item>
+      <p><bold>Diagnostic Criteria</bold>: There is debate over whether
+      the DSM-5 criteria for ADHD, primarily developed for children, are
+      fully applicable to adults
+      (<xref alt="asherson2016?" rid="ref-asherson2016" ref-type="bibr"><bold>asherson2016?</bold></xref>).</p>
+    </list-item>
+    <list-item>
+      <p><bold>Overdiagnosis vs. Underdiagnosis</bold>: Controversy
+      exists over the extent to which ADHD is overdiagnosed or
+      underdiagnosed in adult populations
+      (<xref alt="faraone2021?" rid="ref-faraone2021" ref-type="bibr"><bold>faraone2021?</bold></xref>).</p>
+    </list-item>
+    <list-item>
+      <p><bold>Gender Differences</bold>: The diagnosis of ADHD in women
+      may be underrepresented due to differences in symptom presentation
+      and societal expectations
+      (<xref alt="quinn2014?" rid="ref-quinn2014" ref-type="bibr"><bold>quinn2014?</bold></xref>).</p>
+    </list-item>
+    <list-item>
+      <p><bold>Comorbidity</bold>: High rates of comorbidity with other
+      psychiatric disorders complicate the diagnosis of ADHD in adults
+      (<xref alt="kessler2006?" rid="ref-kessler2006" ref-type="bibr"><bold>kessler2006?</bold></xref>).</p>
+    </list-item>
+    <list-item>
+      <p><bold>Diagnostic Criteria and Symptom Manifestation</bold>:
+      Adult ADHD diagnosis is complicated by the persistence and
+      transformation of symptoms from childhood. Symptoms such as
+      inattention and impulsivity may persist, while hyperactivity may
+      manifest differently in adults.</p>
+    </list-item>
+    <list-item>
+      <p><bold>Diagnostic Criteria Adaptation</bold>: Current diagnostic
+      criteria (e.g., DSM-5) are based primarily on childhood symptoms,
+      which may not fully capture adult presentations. There is a need
+      for criteria that reflect adult-specific symptoms and
+      impairments.</p>
+    </list-item>
+  </list>
+</sec>
+<sec id="conclusion">
+  <title>Conclusion</title>
+  <p>The accurate diagnosis of ADHD in adults presents several
+  decisional dilemmas for clinicians and patients. These include the
+  adaptation of diagnostic criteria, the use of standardized tools,
+  consideration of comorbidities, and the hard truth that many
+  individuals are blatantly feigning their symptoms.</p>
+  <p>adhd_systematic_review/ ├── _quarto.yml # Project configuration ├──
+  index.qmd # Project overview ├── data/ │ ├── raw_pdfs/ # Original PDFs
+  │ ├── processed/ # Extracted text and metadata │ └── metadata.csv #
+  Study tracking spreadsheet ├── R/ │ ├── 01_pdf_processing.R # PDF text
+  extraction │ ├── 02_metadata_extract.R # Structured data extraction │
+  ├── 03_quality_assessment.R # Study quality metrics │ └──
+  04_analysis.R # Final analysis scripts ├── outputs/ │ ├── tables/ │
+  └── figures/ └── docs/ # Generated reports</p>
+</sec>
+</body>
+
+<back>
+</back>
+
+<!-- (F2ED4C6E)[nb-1]:/Users/joey/adhd_systematic_review/dx_broad_categories.md -->
+<!-- (F2ED4C6E)[nb-2]:/Users/joey/adhd_systematic_review/needlectl.md -->
+<!-- (F2ED4C6E)[nb-3]:/Users/joey/adhd_systematic_review/risk_checklist.qmd -->
+<!-- (F2ED4C6E)[nb-4]:/Users/joey/adhd_systematic_review/EPC/diagnostics_protocol/revised_dx_protocol.md -->
+<!-- (F2ED4C6E)[nb-5]:/Users/joey/adhd_systematic_review/risk_of_bias.qmd -->
+<!-- (F2ED4C6E)[nb-6]:/Users/joey/adhd_systematic_review/print_friendly_risk_checklist.qmd -->
+<!-- (F2ED4C6E)[nb-7]:/Users/joey/adhd_systematic_review/docs/rob_faraone2000.md -->
+<!-- (F2ED4C6E)[nb-8]:/Users/joey/adhd_systematic_review/adhd_studies_table_2025-02-20.md -->
+<!-- (F2ED4C6E)[nb-9]:/Users/joey/adhd_systematic_review/qb_test.qmd -->
+<!-- (F2ED4C6E)[nb-10]:/Users/joey/adhd_systematic_review/adult_adhd_manuscript.md -->
+<!-- (F2ED4C6E)[nb-11]:/Users/joey/adhd_systematic_review/gpt1.qmd -->
+<!-- (F2ED4C6E)[nb-12]:/Users/joey/adhd_systematic_review/outputs/tables/tables.md -->
+<!-- (F2ED4C6E)[nb-13]:/Users/joey/adhd_systematic_review/outputs/tables/four_addl_tables.md -->
+<!-- (F2ED4C6E)[nb-14]:/Users/joey/adhd_systematic_review/outputs/tables/claude_tables1.md -->
+<!-- (F2ED4C6E)[nb-15]:/Users/joey/adhd_systematic_review/outputs/tables/tables.qmd -->
+<!-- (F2ED4C6E)[nb-16]:/Users/joey/adhd_systematic_review/reports/brad.qmd -->
+
+</article>
