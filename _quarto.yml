@@ -8,11 +8,9 @@ format:
   html:
     comments:
       hypothesis: true
-  docx: default
-  jats: default
-
-  # (other formats)
   typst: default
+  jats: default
+  docx: default
 
 execute:
   freeze: true

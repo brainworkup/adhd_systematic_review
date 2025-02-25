@@ -1,0 +1,8 @@
+user_message = {
+    "role": "system",
+    "content": f"""
+        Only answer the question based on the provided results data.
+        If there is no data in the provided data for the question, do not generate an answer.
+        This is the question: {prompt}
+    """,
+}
