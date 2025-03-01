@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"947dc59686f12d1b","x":-816,"y":-281,"width":400,"height":400,"type":"file","file":"adhd-measurement-categories.md"},
-		{"id":"32fedd6bae9e4962","x":-200,"y":-440,"width":400,"height":700,"type":"file","file":"adhd_studies_table_2025-02-25.md"}
-	],
-	"edges":[
-		{"id":"00fd3d27dd2a1b9b","fromNode":"32fedd6bae9e4962","fromSide":"left","toNode":"947dc59686f12d1b","toSide":"right"}
-	]
-}

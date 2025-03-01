@@ -1,15 +1,12 @@
 {
-  "workbench.colorCustomizations": {
-    "panel.border": "#dee2fc66",
-    "sash.hoverBorder": "#dee2fc66",
-    "sideBar.border": "#dee2fc66",
-    "tab.activeBorder": "#dee2fc66"
-  },
   "workbench.colorTheme": "Blackboard Pro",
   "files.exclude": {
     ".DS_Store": true,
     ".history": true,
     ".quarto": true,
-    ".vscode": true
+    ".vscode": true,
+    ".Rhistory": true,
+    ".Rproj.user": true,
+    ".obsidian": true
   }
 }
