@@ -1,0 +1,50 @@
+// VS Code Settings
+{
+  // R Settings
+  "r.liveShare.defaults.commandForward": true,
+  "r.liveShare.defaults.shareBrowser": true,
+  "r.rmarkdown.preview.autoRefresh": true,
+  "r.rmarkdown.codeLensCommands": [
+    "r.runCurrentChunk",
+    "r.runAllChunks",
+    "r.runBelowChunks"
+  ],
+  "r.rpath.mac": "/Library/Frameworks/R.framework/Resources/bin/R",
+  "r.rterm.mac": "/opt/homebrew/bin/radian",
+  "r.rterm.option": [
+    "--no-save",
+    "--no-restore",
+    "--r-binary=/Library/Frameworks/R.framework/Resources/bin/R"
+  ],
+  "r.debugger.trackTerminals": true,
+  "r.lsp.debug": true,
+  "r.plot.useHttpgd": true,
+  "r.session.emulateRStudioAPI": true,
+  "r.workspaceViewer.removeHiddenItems": true,
+  "r.workspaceViewer.showObjectSize": true,
+  "r.lsp.diagnostics": true,
+  "r.plot.defaults.fullWindowMode": true,
+  "[r]": {
+    // Treat names.like.this as one word for selection etc.//
+    "editor.wordSeparators": "`~!@#%$^&*()-=+[{]}\\|;:'\"<>/?",
+    "outline.showVariables": true,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "REditorSupport.r",
+    "editor.fontFamily": "DankMono Nerd Font FiraCode Nerd Font Mono FiraCode-Retina",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 14,
+    "editor.lineHeight": 21,
+    "editor.fontWeight": 400,
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 80,
+    "editor.lineNumbers": "on",
+    "editor.quickSuggestions": {
+      "other": true,
+      "comments": false,
+      "strings": false
+    },
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "explicit"
+    }
+  }
+}
