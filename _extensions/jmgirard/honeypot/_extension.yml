@@ -1,0 +1,7 @@
+title: honeypot
+author: Jeffrey Girard
+version: 0.0.2
+contributes:
+  shortcodes:
+    - honeypot.lua
+source: jmgirard/honeypot
