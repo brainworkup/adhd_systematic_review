@@ -5,7 +5,7 @@
 		}
 	],
 	"settings": {
-		"workbench.colorTheme": "Dobri Next -A00- Black",
+		"workbench.colorTheme": "Default Positron Light",
 		"workbench.colorCustomizations": {
 			"panel.border": "#dee2fc66",
 			"sash.hoverBorder": "#dee2fc66",

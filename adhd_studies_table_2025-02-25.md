@@ -1,4 +1,4 @@
-# ADHD Diagnostic Studies: Categorized by Measurement Type
+# Adult ADHD Diagnostic Studies and Tools
 
 ## Clinical Rating Scales and Diagnostic Interviews
 
@@ -72,16 +72,14 @@ Selectivity test
 2.  Woods et al. (2002) - Multiple neuropsych tests
 
 ## Neuroimaging Studies
-
-1. Amen et al. (2021) - SPECT functional neuroimaging
-2. Chaim-Avancini et al. (2017) - MRI pattern recognition
-3. Schneider et al. (2014) - SPECT imaging comparison
-4. Wang et al. (2013) - Regional homogeneity patterns resting-state fMRI
-5. Wang et al. (2023) - Deep learning classification fMRI
-6. Wolfers et al. (2016) - Brain activity pattern quantification, UN
-AFF, ADHD, Controls
-1. Yao et al. (2018) - Machine learning feature selection rs-fMRI
-
+1. Chaim-Avancini et al. (2017) - T1-weighted MRI and DTI
+1. Amen et al. (2021) - SPECT
+1. Schneider et al. (2014) - SPECT
+1. Wang et al. (2013) - ReHo rs-fMRI
+1. Wang et al. (2023) - ReHo rs-fMRI
+1. Wolfers et al. (2016) - fMRI Stop-Signal Task
+1. Yao et al. (2018) - rs-fMRI
+1. Alves et al. (2023) - rs-fMRI <!--ASD, ADHD, controls -->
 
 ## EEG/Electrophysiological Studies
 

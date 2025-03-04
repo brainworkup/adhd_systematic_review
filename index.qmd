@@ -100,5 +100,3 @@ Clinicians must consider the chronicity of symptoms from childhood through adult
 
 The accurate diagnosis of ADHD in adults presents several decisional dilemmas for clinicians and patients.
 These include the adaptation of diagnostic criteria, the use of standardized tools, consideration of comorbidities, and the hard truth that many individuals are blatantly feigning their symptoms.
-
-adhd_systematic_review/ ├── \_quarto.yml \# Project configuration ├── index.qmd \# Project overview ├── data/ │ ├── raw_pdfs/ \# Original PDFs │ ├── processed/ \# Extracted text and metadata │ └── metadata.csv \# Study tracking spreadsheet ├── R/ │ ├── 01_pdf_processing.R \# PDF text extraction │ ├── 02_metadata_extract.R \# Structured data extraction │ ├── 03_quality_assessment.R \# Study quality metrics │ └── 04_analysis.R \# Final analysis scripts ├── outputs/ │ ├── tables/ │ └── figures/ └── docs/ \# Generated reports
