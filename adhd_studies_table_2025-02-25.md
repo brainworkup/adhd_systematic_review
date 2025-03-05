@@ -83,19 +83,17 @@ Selectivity test
 
 ## EEG/Electrophysiological Studies
 
-1. Biederman et al (2017) - Brain Network Activation (BNA), a novel ERP-based brain network
-analysis
-1. Hadas et al. (2021) - TMS-EEG prefrontal activation
-2. Kaur et al. (2020) - EEG phase space reconstruction
-3. Kiiski et al. (2020) - Functional EEG connectivity
+1. Biederman et al (2017) - Brain Network Activation (BNA) of EEG data during
+   Go/NoGo task
+1. Hadas et al. (2021) - TMS evoked potentials (TEPs)
+1. Kaur et al. (2020) - EEG phase space reconstruction during CPT
+1. Kiiski et al. (2020) - Functional EEG connectivity
 4. Kim et al. (2021) - Machine learning mismatch negativity
 5. Mueller et al. (2011) - ERP components discrimination
 6. Müller et al. (2020) - EEG/ERP biomarkers
 7.  Poil et al. (2014) - Age-dependent EEG changes (**children included?**)
 8.  Ponomarev et al. (2014) - Group ICA and current source density
 9.  Shahaf et al. (2012) - Network oriented ERP analysis
-
-https://app.jotform.com/250626088982164/250507924791159?utm_source=jotform_pwa
 
 ## Performance Validity/Effort Testing/Symptom Exaggeration
 

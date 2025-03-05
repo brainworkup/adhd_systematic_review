@@ -83,3 +83,80 @@ The research suggests that neuropsychological tests have a limited but valuable 
 The QbTest specifically appears to have some utility in quantifying ADHD symptoms, but its diagnostic accuracy is insufficient to serve as a primary diagnostic tool, particularly when attempting to differentiate ADHD from other psychiatric conditions. The test may be most useful for tracking treatment response or quantifying symptom severity rather than establishing diagnosis.
 
 These findings align with the broader consensus in the field that adult ADHD diagnosis should involve multiple assessment methods, with a structured clinical interview remaining the cornerstone of the diagnostic process.
+
+# Second analysis
+
+# Expanded Table: Sensitivity and Specificity of Assessment Measures for Adult ADHD
+
+I understand you're looking for a more comprehensive table of neuropsychological tests. After thoroughly reviewing the provided document, I've compiled all sensitivity and specificity data that's available. The document you shared is actually a research protocol for a systematic review rather than the completed review itself, so it contains relatively limited specific sensitivity/specificity values.
+
+Below is the expanded table including all available neuropsychological test data:
+
+| Study | Assessment Measure | Sensitivity (%) | Specificity (%) | Sample Size (ADHD/Control) | Notes |
+|-------|-------------------|-----------------|-----------------|----------------------------|-------|
+| Edebol et al. (2013) | QbTest+ (Hyperactivity) | 86 | 83 | 55/202 | Motion tracking combined with CPT |
+| Edebol et al. (2013) | QbTest+ (vs. Bipolar II) | 36 | - | - | Reduced sensitivity with comorbidity |
+| Edebol et al. (2013) | QbTest+ (vs. Borderline PD) | 41 | - | - | Reduced sensitivity with comorbidity |
+| Hirsch & Christiansen (2017) | QbTest+ | 90 | 45 | 773 patients total | High sensitivity but low specificity |
+| Adamou et al. (2022) | QbTest+ | 47-67 | 72-84 | Not specified | Range indicates variable performance |
+| Lovejoy et al. (1999) | Controlled Oral Word Association | 58 | 92 | 26/26 | Verbal fluency measure |
+| Lovejoy et al. (1999) | California Verbal Learning Test | 38 | 92 | 26/26 | Verbal memory assessment |
+| Lovejoy et al. (1999) | Stroop Neuropsychological Test | 23 | 100 | 26/26 | Inhibition measure |
+| Lovejoy et al. (1999) | Trail Making Test Part A | 19 | 100 | 26/26 | Processing speed measure |
+| Lovejoy et al. (1999) | Trail Making Test Part B | 23 | 96 | 26/26 | Set-shifting measure |
+| Lovejoy et al. (1999) | WAIS-R Freedom from Distractibility | 38 | 100 | 26/26 | Attention/concentration index |
+| Lovejoy et al. (1999) | Composite (1+ impaired tests) | 96 | 85 | 26/26 | Battery approach with high sensitivity |
+| Lovejoy et al. (1999) | Composite (2+ impaired tests) | 69 | 96 | 26/26 | Better balanced sensitivity/specificity |
+| Nielsen & Wiig (2011) | AQT Color | 43 | 97 | 30/30 | Simple naming task |
+| Nielsen & Wiig (2011) | AQT Form | 43 | 100 | 30/30 | Simple naming task |
+| Nielsen & Wiig (2011) | AQT Color-Form | 73 | 100 | 30/30 | Dual naming task |
+| Nielsen & Wiig (2011) | AQT Overhead | 87 | 87 | 30/30 | Processing efficiency measure |
+| Nielsen & Wiig (2011) | AQT Color-Form or Overhead | 93 | 100 | 30/30 | Combined approach |
+| Grodzinsky & Barkley (1997) | COWAT-FAS | Not specified | Not specified | Not specified | Verbal fluency measure |
+| Epstein & Kollins (2006) | CAADID | Reported as "high" | Reported as "good" | Not fully specified | Structured diagnostic interview |
+| Gorlin et al. (2016) | Semi-structured DSM-based interview | Reported as "reliable" | Reported as "valid" | Not specified | Test-retest reliability mentioned |
+| Adler et al. (2008) | Self vs. Investigator ratings | Variable reliability | Variable validity | Not specified | Examines concordance between raters |
+| Emser et al. (2018) | Objective measures only | 80 | 77 | 30/30 (children) | Cognitive performance tests only |
+| Emser et al. (2018) | Objective measures only | 82 | 76 | 38/38 (adults) | Cognitive performance tests only |
+| Emser et al. (2018) | Combined subjective & objective | 83 | 90 | 30/30 (children) | Multi-method assessment |
+| Emser et al. (2018) | Combined subjective & objective | 90 | 90 | 38/38 (adults) | Multi-method assessment |
+| Pagán et al. (2023) | Conner's CPT | Variable (not specified) | Variable (not specified) | Systematic review | Sensitivity/specificity varies by sample |
+| Varela et al. (2024) | Various CPTs | Variable (not specified) | Variable (not specified) | Systematic review | Limited utility reported as sole measure |
+| Taylor et al. (2011) | Various adult ADHD scales | Variable (not specified) | Variable (not specified) | Systematic review | Reviewed identification scales |
+
+## Additional Information on ADHD Assessment Tools
+
+The document mentions several other assessment tools that are commonly used in adult ADHD diagnosis, though without specific sensitivity/specificity data:
+
+1. **Structured Interviews:**
+   - Diagnostic Interview for ADHD in Adults (DIVA 2.0)
+   - Schedule for Affective Disorders and Schizophrenia for School-Age Children-Present and Lifetime Version (K-SADS-PL) adapted for adults
+   - Wender Reimherr Interview (WRI)
+
+2. **Self-Report Rating Scales:**
+   - Adult ADHD Self-Report Scale (ASRS-V1.1)
+   - Conners' Adult ADHD Rating Scales (CAARS) - both self and observer versions
+   - Wender Utah Rating Scale (WURS)
+   - Brown Attention-Deficit Disorder Scales
+
+3. **Additional Neuropsychological Tests:**
+   - Wisconsin Card Sorting Test
+   - Digit Span (WAIS)
+   - Sustained Attention to Response Task (SART)
+   - D-KEFS (Delis-Kaplan Executive Function System)
+
+## Research Findings on Assessment Approaches
+
+The document emphasizes several key points about neuropsychological assessment of adult ADHD:
+
+1. **Single tests have limited utility:** Individual neuropsychological measures typically show moderate to low sensitivity (19-58%) with higher specificity (72-100%), making them better at ruling in rather than ruling out ADHD.
+
+2. **Battery approaches are superior:** Using multiple tests or composite measures substantially improves diagnostic accuracy, with sensitivity and specificity both potentially reaching 90%.
+
+3. **Combined methods are most effective:** Integrating subjective measures (rating scales, interviews) with objective neuropsychological tests provides the highest diagnostic accuracy.
+
+4. **Reaction time variability (RTV)** emerges as one of the most consistent neuropsychological markers in adult ADHD across studies.
+
+5. **Comorbidities reduce diagnostic accuracy:** The presence of other conditions like bipolar disorder or borderline personality disorder significantly decreases the sensitivity of neuropsychological measures.
+
+The systematic review described in this protocol aims to provide a more comprehensive assessment of the comparative diagnostic accuracy of various tools used in diagnosing adult ADHD, which would likely yield more specific sensitivity and specificity data once completed.

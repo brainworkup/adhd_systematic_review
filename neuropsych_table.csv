@@ -1,0 +1,34 @@
+Sure, here is the data in a CSV file format:
+
+```csv
+Study,Assessment Measure,Sensitivity (%),Specificity (%),Sample Size (ADHD/Control),Notes
+Edebol et al. (2013),QbTest+ (Hyperactivity),86,83,55/202,Motion tracking combined with CPT
+Edebol et al. (2013),QbTest+ (vs. Bipolar II),36,-,-,Reduced sensitivity with comorbidity
+Edebol et al. (2013),QbTest+ (vs. Borderline PD),41,-,-,Reduced sensitivity with comorbidity
+Hirsch & Christiansen (2017),QbTest+,90,45,773 patients total,High sensitivity but low specificity
+Adamou et al. (2022),QbTest+,47-67,72-84,Not specified,Range indicates variable performance
+Lovejoy et al. (1999),Controlled Oral Word Association,58,92,26/26,Verbal fluency measure
+Lovejoy et al. (1999),California Verbal Learning Test,38,92,26/26,Verbal memory assessment
+Lovejoy et al. (1999),Stroop Neuropsychological Test,23,100,26/26,Inhibition measure
+Lovejoy et al. (1999),Trail Making Test Part A,19,100,26/26,Processing speed measure
+Lovejoy et al. (1999),Trail Making Test Part B,23,96,26/26,Set-shifting measure
+Lovejoy et al. (1999),WAIS-R Freedom from Distractibility,38,100,26/26,Attention/concentration index
+Lovejoy et al. (1999),Composite (1+ impaired tests),96,85,26/26,Battery approach with high sensitivity
+Lovejoy et al. (1999),Composite (2+ impaired tests),69,96,26/26,Better balanced sensitivity/specificity
+Nielsen & Wiig (2011),AQT Color,43,97,30/30,Simple naming task
+Nielsen & Wiig (2011),AQT Form,43,100,30/30,Simple naming task
+Nielsen & Wiig (2011),AQT Color-Form,73,100,30/30,Dual naming task
+Nielsen & Wiig (2011),AQT Overhead,87,87,30/30,Processing efficiency measure
+Nielsen & Wiig (2011),AQT Color-Form or Overhead,93,100,30/30,Combined approach
+Grodzinsky & Barkley (1997),COWAT-FAS,Not specified,Not specified,Not specified,Verbal fluency measure
+Epstein & Kollins (2006),CAADID,Reported as "high",Reported as "good",Not fully specified,Structured diagnostic interview
+Gorlin et al. (2016),Semi-structured DSM-based interview,Reported as "reliable",Reported as "valid",Not specified,Test-retest reliability mentioned
+Adler et al. (2008),Self vs. Investigator ratings,Variable reliability,Variable validity,Not specified,Examines concordance between raters
+Emser et al. (2018),Objective measures only,80,77,30/30 (children),Cognitive performance tests only
+Emser et al. (2018),Objective measures only,82,76,38/38 (adults),Cognitive performance tests only
+Emser et al. (2018),Combined subjective & objective,83,90,30/30 (children),Multi-method assessment
+Emser et al. (2018),Combined subjective & objective,90,90,38/38 (adults),Multi-method assessment
+Pagán et al. (2023),Conner's CPT,Variable (not specified),Variable (not specified),Systematic review,Sensitivity/specificity varies by sample
+Varela et al. (2024),Various CPTs,Variable (not specified),Variable (not specified),Systematic review,Limited utility reported as sole measure
+Taylor et al. (2011),Various adult ADHD scales,Variable (not specified),Variable (not specified),Systematic review,Reviewed identification scales
+```
