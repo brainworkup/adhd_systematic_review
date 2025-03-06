@@ -57,3 +57,25 @@
 - Dot Counting Test (DCT)
 - Tests of Attentional Distraction (TOAD)
 - WJ-IV: Woodcock-Johnson IV
+- Barkley Adult ADHD Rating Scale–Fourth Edition(BAARS-IV)
+- ADHD Symptom Infrequency Scale (ASIS)
+- MARS Symptom Validity Index 4 (MARS SV-index 4)
+- Word Memory Test (WMT)
+- Subtle ADHD Malingering Screener (SAMS)
+- Minnesota Multiphasic Personality Inventory-2 (MMPI-2)
+- Total Antioxidative Status (TAS), Total Oxidative Status (TOS), and Oxidative Stress Index (OSI)
+- Motor Function Neurological Assessment (MFNU)
+- Structured Clinical Interview Research Version (SCID) for Diagnostic and
+  Statistical Manual of Mental Disorders, fourth edition (DSM-IV) axis I
+  disorders
+- Adult ADHD Clinician Diagnostic Scale, version 1.2 (ACDS)
+- Provisional Diagnostic Instrument-4 (PDI-4)
+- Maudsley Addiction Profile interview
+- Minnesota Student Survey questionnaire for substance misuse
+- Wender Utah adult ADHD screening test
+- WHO Adult ADHD Self-report Screener
+- Connors Adult ADHD Rating Scale Self-report Long version (CAARS-S:L)
+- Self-Report Wender-Reimherr Adult Attention Deficit Disorder Scale (SR-WRAADDS)
+- Aberrant Behavior Checklist (ABC)
+- **SDQ**
+- Psychiatric Research Interview for Substance and Mental Disorders (PRISM) 

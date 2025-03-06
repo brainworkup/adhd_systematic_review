@@ -2,47 +2,47 @@
 
 ## Clinical Rating Scales and Diagnostic Interviews
 
-1. Bakare & Jordanova (2020) - Brief screening measure development
-2. Bastiaens & Galus (2018) - ASRS screener comparison DSM-IV vs DSM-5
-3. Chen et al. (2021) - Machine learning ADHD classification
-4. Chiasson et al. (2012) - ASRS in ADHD + substance abuse populations
-5. Dakwar et al. (2012) - ADHD screening in substance use disorders
-6. Dunlop et al. (2018) - ASRS in major depressive disorder
-7. Eich et al. (2012) - New rating scale based on SCL-90-R
-8. Erhardt et al. (1999) - Self-ratings reliability and validity
-9. Faraone et al. (2000) - Symptom assessment children vs adults
-10. Gift et al. (2021) - Wender Utah Rating Scale psychometrics
-11. Grogan et al (2017) - CAARS, STAI (adhd and anxiety)
-12. Harrison et al (2016) - CAARS
-13. Houston et al. (2011) - Primary care screening instrument
-14. Kessler et al. (2010) - Adult ADHD Clinical Diagnostic Scale
-15. Kingston et al (2013) - Multiple measures + CPT
-16. Kwan et al (2024) - CAARS
-17. Lancaster et al (2018) - PAI
-18. Kumar et al. (2011) - MINI, CAARS, Screening in psychiatric inpatients
-19. Lewandowski et al. (2008) - College student symptom reporting
-20. Liu et al. (2023) - Machine learning screening approach
-21. Luderer et al. (2019) - ADHD screening in alcohol dependent patients
-22. Luty et al. (2009) - Self-report validation in substance users
-23. Marchant et al. (2015) - Self-Report Wender-Reimherr Scale
-24. Mattos et al. (2018) - DSM criteria in medical students
-25. McCann & Roy-Byrne (2004) - Self-report scales utility
-26. Mehringer et al. (2002) - Assessment of Hyperactivity and Attention tool
-27. Notzon et al. (2020) - CAADID, ADHD in cannabis use disorders
-28. Palma-Álvarez et al. (2023) - MINI-Plus ADHD module validation
-29. Palmer et al. (2023) - Screening in young autistic adults
-30. Reimherr et al. (2021) - Wender Utah Rating Scale versions
-31. Reyes et al. (2019) - ASRS utility in alcoholics
-32. Singh et al. (2015) - IPDE screening questionnaire
-33. Ustun et al. (2017) - WHO Adult ADHD Self-Report Scale
-34. van de Glind et al. (2013) - ASRS in substance use disorders
-35. Van Voorhees et al. (2011) - Self and other-ratings reliability
-36. Vitola et al. (2017) - DSM-5 criteria exploration
-37. Vizgaitis et al. (2023) - Self-reported symptoms analysis
-38. Young et al. (2016) - BAARS-IV, Prison inmate screening tool
-39. Young et al. (2005) - YAQ-S and YAQ-I symptomatology
-40. Young et al. (2023) - ASSET-BS screening measure development
-41. Groom et al (2016) - CAARS + QB Test, ADHD vs. Autism
+1. Bakare & Jordanova (2020) - WURS-brief
+1. Bastiaens & Galus (2018) - ASRS screener comparison DSM-IV vs. DSM-5
+1. Chen et al. (2021) - Machine learning ADHD classification
+1. Chiasson et al. (2012) - ASRS for ADHD in substance abuse populations
+1. Dakwar et al. (2012) - ASRS, CAARS, and WURS in substance use disorders
+1. Dunlop et al. (2018) - ASRS in major depressive disorder
+1. Eich et al. (2012) - New rating scale based on SCL-90-R
+1. Erhardt et al. (1999) - CAARS
+1. Faraone et al. (2000) - Symptom assessment children vs. adults
+1. Gift et al. (2021) - WURS-25
+1. Grogan et al (2017) - CAARS, STAI for ADHD and anxiety
+1. Groom et al (2016) - CAARS + QB Test, ADHD vs. Autism
+1. Harrison et al (2016) - CAARS
+1. Houston et al. (2011) - SCID-IV, ACDS and PDI-4 screening in primary care
+1. Kessler et al. (2010) - Adult ADHD Clinical Diagnostic Scale
+1. Kingston et al (2013) - Multiple measures + CPT
+1. Kumar et al. (2011) - MINI, CAARS, Screening in psychiatric inpatients
+1. Kwan et al (2024) - CAARS
+1. Lancaster et al (2018) - PAI
+1. Lewandowski et al. (2008) - DSM-IV rating scale in college students
+1. Liu et al. (2023) - Machine learning screening approach (multiple scales)
+1. Luderer et al. (2019) - CAARS, ASRS in alcohol dependent patients
+1. Luty et al. (2009) - CAARS, WHO Adult ADHD screener, WURS in substance users
+1. Marchant et al. (2015) - SR-WRAADDS
+1. Mattos et al. (2018) - ASRS, K-SADS in medical students
+1. McCann & Roy-Byrne (2004) - ARS, ADSA Self-report scales utility
+1. Mehringer et al. (2002) - Assessment of Hyperactivity and Attention (AHA) tool
+1. Notzon et al. (2020) - WURS, CAARS, ASRS in cannabis use disorders
+1. Palma-Álvarez et al. (2023) - MINI-Plus ADHD module validation
+1. Palmer et al. (2023) - ABC, CAARS, and SDQ in young autistic adults
+1. Reimherr et al. (2021) - WURS-25, WURS-45
+1. Reyes et al. (2019) - ASRS, PRISM in SUD populations
+1. Singh et al. (2015) - IPDE-SQ personality screening questionnaire
+1. Ustun et al. (2017) - WHO ASRS, ACDS in multiple settings
+1. van de Glind et al. (2013) - ASRS in substance use disorders
+1. Van Voorhees et al. (2011) - Self and other-ratings reliability
+1. Vitola et al. (2017) - DSM-5 criteria exploration
+1. Vizgaitis et al. (2023) - Self-reported symptoms analysis
+1. Young et al. (2005) - YAQ-S and YAQ-I symptomatology
+1. Young et al. (2016) - BAARS-IV, Prison inmate screening tool
+1. Young et al. (2023) - ASSET-BS screening measure development
 
 ## Neuropsychological and Cognitive Tests
 
@@ -98,7 +98,6 @@ Selectivity test
 
 ## Performance Validity/Effort Testing/Symptom Exaggeration
 
-
 ### Performance-based 'embedded' validity indicators
 
 1. Becke et al (2023) - WURS-K, ADHS-SB, TOMM, Neuropsych Battery
@@ -119,34 +118,32 @@ Selectivity test
 
 ### Rating scales for symptom exaggeration
 
-1. Aita et al. (2018) - PAI, 
-1. Smith et al. (2017) - PAI feigning detection
-1. Young & Gross (2011) - MMPI-2
-1. Cook et al. (2016) - Conners' Infrequency Index validation
+1. Aita et al. (2018) - PAI 
+1. Cook et al. (2016) - CAARS, MMPI-2-RF
 1. Courrégé et al. (2019) - ADHD Symptom Infrequency Scale
-1. Finley et al (2024) - Clinical Assessment of Attention Deficit–Adult
-1. Harrison & Armstrong (2016) - Exaggeration Index (EI)
-1. Harrison et al. (2022) - PAI validity measures
-1. Musso et al. (2016) - PAI utility
-1. Potts et al. (2022) - Multidimensional ADHD Rating Scale
-1. Ramachandran et al. (2019) - Subtle ADHD Malingering Screener
+1. Finley et al (2024) - CAT-A, Clinical Assessment of Attention Deficit–Adult
+1. Harrison & Armstrong (2016) - E-CAARS, Exaggeration Index (EI)
+1. Harrison et al. (2022) - PAI, CAARS, WMT, MSVT, TOMM, VSVT
+1. Musso et al. (2016) - PAI
+1. Potts et al. (2022) - MARS, CAT-A, WMT 
+1. Ramachandran et al. (2019) - SAMS
+1. Smith et al. (2017) - PAI
+1. Young & Gross (2011) - MMPI-2
  
 ### Combined neurocognitive effort test(s) and rating scale(s)
 
-1. Sollman et al. (2010) - CAARS + TOMM, LMT, NVMST
-1. Quinn (2003) - ADHD Behavior Checklist, IVA-CPT
-1. Marshall et al. (2010) - Barkley RS, CAT-A, WMT, b Test, DCT, TOVA
 1. Harrison et al (2007) - CAARS, WJ-III
+1. Marshall et al. (2010) - Barkley RS, CAT-A, WMT, b Test, DCT, TOVA
+1. Quinn (2003) - ADHD Behavior Checklist, IVA-CPT
+1. Sollman et al. (2010) - CAARS + TOMM, LMT, NVMST
 1. Williamson et al. (2014) - TOMM, DMT, LMT, NV-MSVT, b Test, WAIS-IV, WJ-III
 
 ## Biomarkers
 
 1. Andrikopoulos et al. (2024) - Machine learning with physiological data
-2. Grünblatt et al. (2012) - Transcription markers in whole blood
-3. Jiminez et al (2021) - Eye vergence/oculomotor
-4. Juselius Baghdassarian et al. (2018) - Auditory brainstem response (ABR)
-5. Selek et al. (2012) - Total Antioxidative Status (TAS), Total
-Oxidative Status (TOS), and Oxidative Stress Index (OSI)
-1. Udal et al. (2024) - Neuromuscular assessment
-2. Woodruff et al. (2011) - A new blood test that measures blood cell membrane
-potential (expressed as membrane potential ratio [MPRTM])
+1. Grünblatt et al. (2012) - Transcription markers of candidate genes in whole blood
+1. Jiminez et al (2021) - Eye vergence/oculomotor responses
+1. Juselius Baghdassarian et al. (2018) - Auditory brainstem response (ABR)
+1. Selek et al. (2012) - Oxidative/antioxidative stress markers
+1. Udal et al. (2024) - Neuromuscular assessment 
+1. Woodruff et al. (2011) - Membrane potential ratio (MPR)
