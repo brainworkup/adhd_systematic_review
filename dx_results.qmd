@@ -1,9 +1,18 @@
 ---
 title: "Adult ADHD Review Results"
 author: "Joey W. Trampush, Ph.D."
-format: typst
+format: 
+  typst: 
+    toc: false
+  html: 
+    toc: true
+  docx:
+    toc: true
 execute: 
-  echo: false
+  echo: false # Don't show code
+  warning: false # Don't show warnings
+  message: false # Don't show messages
+  include: true # DO show results
 ---
 
 ```{r setup}
@@ -11,10 +20,30 @@ execute:
 library(gt)
 library(tibble)
 library(dplyr)
+library(readr)
+library(vroom)
 
 # Source the custom table function
 source("R/create_demographics_table.R")
 source("R/create_table.R")
+```
+
+## Rating Scale and Diagnostic Interviews
+
+```{r warning=FALSE}
+# For the first table, we'll use knitr::kable instead of gt for better cross-format compatibility
+adhd_diagnostic_tools <- read_csv("outputs/tables/adhd-diagnostic-tools.csv")
+
+# Select only key columns for better readability across formats
+df_display <- adhd_diagnostic_tools %>%
+  select(Study, Measure_Name, Sensitivity, Specificity, Diagnostic_Accuracy, Notes)
+
+# Create the table with knitr::kable
+knitr::kable(
+  df_display,
+  col.names = c("Study", "Diagnostic Measure", "Sensitivity", "Specificity", "Diagnostic Accuracy", "Notes"),
+  caption = "Rating Scales and Diagnostic Interviews for Adult ADHD"
+)
 ```
 
 ## Neuroimaging
@@ -22,7 +51,7 @@ source("R/create_table.R")
 ```{r}
 # Create a data frame using tibble::tribble for clarity
 demographics_data_neuroimaging <- tibble::tribble(
-  ~Study, ~`Sample Size`, ~`Age (Mean ± SD)`, ~Gender, ~`ADHD Subtypes`, ~`Imaging Modality`, ~`Key Demographic Notes`,
+  ~Study, ~Sample_Size, ~Age, ~Gender, ~ADHD_Subtypes, ~Imaging_Modality, ~Notes,
   "Alves (2024)", "30 ADHD, 30 controls", "Not fully extracted", "Not fully extracted", "Not fully extracted", "fMRI", "Analysis used blood oxygenation level-dependent (BOLD) time series data",
   "Amen (2021)", "1,006 ADHD, 129 controls", "Not fully extracted", "Not fully extracted", "Combined, Inattentive, and Hyperactive", "SPECT", "Large retrospective analysis; ADHD patients with no comorbidities; Controls had no psychiatric diagnosis, brain injury, or substance use",
   "Chaim-Avancini (2017)", "67 ADHD, 58 controls", "27.0 ± 6.0 (ADHD)", "52 males/15 females (ADHD)", "36 Inattentive, 31 Combined", "MRI", "Education: 13.5 ± 2.6 years; Male-only subgroup (n=52) also analyzed",
@@ -30,48 +59,23 @@ demographics_data_neuroimaging <- tibble::tribble(
   "Wang (2023)", "50 ADHD, 50 controls", "Not fully extracted", "Not fully extracted", "Inattentive, Hyperactive/Impulsive, Combined", "fMRI", "Used ADHD-200 dataset; analysis using convolutional neural networks",
   "Wang (2013)", "23 ADHD, 23 controls", "35.14 ± 9.75 (ADHD), 32.04 ± 9.23 (Controls)", "18 males/5 females in both groups", "All Combined Type", "MRI", "Focus on resting-state fMRI; All patients met lifetime criteria for Combined Type ADHD",
   "Wolfers (2016)", "184 ADHD, 103 unaffected siblings, 128 controls", "Not fully extracted", "Not fully extracted", "Not fully extracted", "fMRI", "Used Stop-Signal Task paradigm to assess response inhibition; included unaffected siblings as comparison group",
-  "Yao (2018)", "112 ADHD, 77 controls (adults); 34 ADHD, 28 controls (children)",
-  "Adults: 25.93±4.86 (ADHD), 26.04±3.94 (controls); Children: 9.79±1.86 (ADHD), 10.29±1.67 (controls)",
-  "Adults: 37F/75M (ADHD), 34F/43M (controls); Children: All male",
-  "Not fully extracted",
-  "fMRI",
-  "Used two separate datasets (adults and children); Focus on default mode network"
+  "Yao (2018)", "112 ADHD, 77 controls (adults); 34 ADHD, 28 controls (children)", "Adults: 25.93±4.86 (ADHD), 26.04±3.94 (controls); Children: 9.79±1.86 (ADHD), 10.29±1.67 (controls)", "Adults: 37F/75M (ADHD), 34F/43M (controls); Children: All male", "Not fully extracted", "fMRI", "Used two separate datasets (adults and children); Focus on default mode network"
+)
+
+# Use knitr::kable for better cross-format compatibility
+knitr::kable(
+  demographics_data_neuroimaging,
+  col.names = c("Study", "Sample Size", "Age (Mean ± SD)", "Gender", "ADHD Subtypes", "Imaging Modality", "Key Demographic Notes"),
+  caption = "Neuroimaging Studies Demographics Summary"
 )
 ```
 
-```{r}
-# Generate the gt table
-demographics_table_neuroimaging <- demographics_data_neuroimaging |>
-  gt() |>
-  tab_header(
-    title = md("Demographics Table for Adult ADHD Review"),
-    subtitle = md("**Neuroimaging Studies Demographics Summary**")
-  ) |>
-  # Optionally, relabel columns (here they are already clear)
-  cols_label(
-    Study = "Study",
-    `Sample Size` = "Sample Size",
-    `Age (Mean ± SD)` = "Age (Mean ± SD)",
-    Gender = "Gender",
-    `ADHD Subtypes` = "ADHD Subtypes",
-    `Imaging Modality` = "Imaging Modality",
-    `Key Demographic Notes` = "Key Demographic Notes"
-  ) |>
-  # Format all columns as markdown to handle any formatting within the cells
-  fmt_markdown(columns = everything()) |>
-  # Optional: Add table lines for a more publication-like look
-  opt_table_lines()
-
-# Display the table
-demographics_table_neuroimaging
-```
-
-# Neuropsychological and Cognitive Tests
+## Neuropsychological and Cognitive Tests
 
 ```{r}
 ```
 
-## Overview of Current Research Findings
+### Overview of Current Research Findings
 
 The research available in your collection provides substantial evidence regarding the effectiveness and limitations of neuropsychological tests for diagnosing ADHD in adults.
 The evidence points to several consistent findings:
@@ -86,9 +90,9 @@ Pettersson et al. (2018) found that "neuropsychological tests have a poor abilit
 The research consistently shows that neuropsychological tests provide the most value when used as part of a comprehensive assessment approach.
 Nikolas et al. (2019) reported that "a combined approach using self and informant symptom ratings, positive family history of ADHD, and a reaction time (RT) variability measure correctly classified 87% of cases." This suggests that while neuropsychological tests have limitations as standalone measures, they can contribute meaningfully to diagnostic accuracy when used as part of a more comprehensive evaluation protocol.
 
-## Specific Findings on Test Performance
+### Specific Findings on Test Performance
 
-### Most Promising Measures
+#### Most Promising Measures
 
 Several specific neuropsychological domains have shown more utility than others:
 
@@ -99,7 +103,7 @@ Several specific neuropsychological domains have shown more utility than others:
 
 3.  **Working Memory Tasks**: Measures of working memory were consistently identified as having some utility in distinguishing adults with ADHD.
 
-### QbTest Performance
+#### QbTest Performance
 
 The QbTest, a computerized test designed to measure all three core ADHD symptoms (inattention, hyperactivity, and impulsivity), showed mixed results:
 
@@ -113,28 +117,28 @@ The QbTest, a computerized test designed to measure all three core ADHD symptoms
 
 4.  **Söderström et al. (2014)** found that "the self-rating scales exhibited high sensitivity values but very low specificity values" while "the QBImpulsivity and QBInattention variables \[showed\] high specificity values and low sensitivity values."
 
-## Challenges and Limitations
+### Challenges and Limitations
 
-### 1. Overlap with Other Clinical Conditions
+#### 1. Overlap with Other Clinical Conditions
 
 A significant challenge in using neuropsychological tests for ADHD diagnosis is the overlap of cognitive deficits with other psychiatric conditions:
 
 -   Pettersson et al. (2018) noted that "when adults with ADHD are compared with other psychiatric patients, the results are more inconsistent."
 -   Nikolas et al. (2019) highlighted the "substantial overlap between ADHD symptoms and cognitive symptoms of other mental health conditions, such as depression and anxiety."
 
-### 2. Heterogeneity of ADHD Presentation
+#### 2. Heterogeneity of ADHD Presentation
 
 The neuropsychological profile of adults with ADHD is heterogeneous:
 
 -   Nikolas et al. (2019) found that "adults with above average global cognitive abilities may underperform on some of these tasks relative to their IQ, even though their performance may be within an average range when compared with a broader population of adults."
 -   This suggests that using standard cutoff scores may not be appropriate, particularly for high-functioning adults or those with higher education levels.
 
-### 3. Test Sensitivity and Ecological Validity
+#### 3. Test Sensitivity and Ecological Validity
 
 -   Sensitivity and specificity issues persist across most tests, with no single measure providing both high sensitivity and specificity.
 -   Ecological validity remains a concern, as performance in structured testing environments may not reflect real-world functioning.
 
-## Optimal Assessment Approach
+### Optimal Assessment Approach
 
 Based on the research findings, the optimal approach for diagnosing adult ADHD appears to involve:
 
@@ -148,7 +152,7 @@ Based on the research findings, the optimal approach for diagnosing adult ADHD a
 
 5.  **Family History Assessment**: Several studies found that including family history information significantly improved diagnostic accuracy.
 
-## Conclusion
+### Conclusion
 
 The research suggests that neuropsychological tests have a limited but valuable role in adult ADHD assessment.
 While they should not be relied upon as standalone diagnostic tools, selective neuropsychological tests focusing on sustained attention, reaction time variability, and working memory can contribute to diagnostic accuracy when used as part of a comprehensive assessment approach that includes clinical interviews, rating scales, and family history.
@@ -158,58 +162,16 @@ The test may be most useful for tracking treatment response or quantifying sympt
 
 These findings align with the broader consensus in the field that adult ADHD diagnosis should involve multiple assessment methods, with a structured clinical interview remaining the cornerstone of the diagnostic process.
 
-## Expanded Table: Sensitivity and Specificity of Assessment Measures for Adult ADHD
-
-I understand you're looking for a more comprehensive table of neuropsychological tests.
-After thoroughly reviewing the provided document, I've compiled all sensitivity and specificity data that's available.
-The document you shared is actually a research protocol for a systematic review rather than the completed review itself, so it contains relatively limited specific sensitivity/specificity values.
-
-Below is the expanded table including all available neuropsychological test data:
-
-| Study | Assessment Measure | Sensitivity (%) | Specificity (%) | Sample Size (ADHD/Control) | Notes |
-|----|----|----|----|----|----|
-| Edebol et al. (2013) | QbTest+ (Hyperactivity) | 86 | 83 | 55/202 | Motion tracking combined with CPT |
-| Edebol et al. (2013) | QbTest+ (vs. Bipolar II) | 36 | \- | \- | Reduced sensitivity with comorbidity |
-| Edebol et al. (2013) | QbTest+ (vs. Borderline PD) | 41 | \- | \- | Reduced sensitivity with comorbidity |
-| Hirsch & Christiansen (2017) | QbTest+ | 90 | 45 | 773 patients total | High sensitivity but low specificity |
-| Adamou et al. (2022) | QbTest+ | 47-67 | 72-84 | Not specified | Range indicates variable performance |
-| Lovejoy et al. (1999) | Controlled Oral Word Association | 58 | 92 | 26/26 | Verbal fluency measure |
-| Lovejoy et al. (1999) | California Verbal Learning Test | 38 | 92 | 26/26 | Verbal memory assessment |
-| Lovejoy et al. (1999) | Stroop Neuropsychological Test | 23 | 100 | 26/26 | Inhibition measure |
-| Lovejoy et al. (1999) | Trail Making Test Part A | 19 | 100 | 26/26 | Processing speed measure |
-| Lovejoy et al. (1999) | Trail Making Test Part B | 23 | 96 | 26/26 | Set-shifting measure |
-| Lovejoy et al. (1999) | WAIS-R Freedom from Distractibility | 38 | 100 | 26/26 | Attention/concentration index |
-| Lovejoy et al. (1999) | Composite (1+ impaired tests) | 96 | 85 | 26/26 | Battery approach with high sensitivity |
-| Lovejoy et al. (1999) | Composite (2+ impaired tests) | 69 | 96 | 26/26 | Better balanced sensitivity/specificity |
-| Nielsen & Wiig (2011) | AQT Color | 43 | 97 | 30/30 | Simple naming task |
-| Nielsen & Wiig (2011) | AQT Form | 43 | 100 | 30/30 | Simple naming task |
-| Nielsen & Wiig (2011) | AQT Color-Form | 73 | 100 | 30/30 | Dual naming task |
-| Nielsen & Wiig (2011) | AQT Overhead | 87 | 87 | 30/30 | Processing efficiency measure |
-| Nielsen & Wiig (2011) | AQT Color-Form or Overhead | 93 | 100 | 30/30 | Combined approach |
-| Grodzinsky & Barkley (1997) | COWAT-FAS | Not specified | Not specified | Not specified | Verbal fluency measure |
-| Epstein & Kollins (2006) | CAADID | Reported as "high" | Reported as "good" | Not fully specified | Structured diagnostic interview |
-| Gorlin et al. (2016) | Semi-structured DSM-based interview | Reported as "reliable" | Reported as "valid" | Not specified | Test-retest reliability mentioned |
-| Adler et al. (2008) | Self vs. Investigator ratings | Variable reliability | Variable validity | Not specified | Examines concordance between raters |
-| Emser et al. (2018) | Objective measures only | 80 | 77 | 30/30 (children) | Cognitive performance tests only |
-| Emser et al. (2018) | Objective measures only | 82 | 76 | 38/38 (adults) | Cognitive performance tests only |
-| Emser et al. (2018) | Combined subjective & objective | 83 | 90 | 30/30 (children) | Multi-method assessment |
-| Emser et al. (2018) | Combined subjective & objective | 90 | 90 | 38/38 (adults) | Multi-method assessment |
-| Pagán et al. (2023) | Conner's CPT | Variable (not specified) | Variable (not specified) | Systematic review | Sensitivity/specificity varies by sample |
-| Varela et al. (2024) | Various CPTs | Variable (not specified) | Variable (not specified) | Systematic review | Limited utility reported as sole measure |
-| Taylor et al. (2011) | Various adult ADHD scales | Variable (not specified) | Variable (not specified) | Systematic review | Reviewed identification scales |
-
 ```{r}
+# Load the data but handle it as a simple table, not using gt for compatibility
 df_neuro <- vroom::vroom("neuro.csv")
 
-# Use the new function to create the table
-tbl_neuro <- create_demographics_table(
-  data = df_neuro,
-  title = "Demographics Table for Adult ADHD Review",
-  subtitle = "**Neuroimaging Studies Demographics Summary**"
+# Create a simple knitr::kable table that works in all output formats
+knitr::kable(
+  df_neuro,
+  caption = "Demographics Table for Adult ADHD Review: Neuropsychological Tests",
+  format = "pandoc"
 )
-
-# Display the table
-tbl_neuro
 ```
 
 The document mentions several other assessment tools that are commonly used in adult ADHD diagnosis, though without specific sensitivity/specificity data:
@@ -229,7 +191,7 @@ The document mentions several other assessment tools that are commonly used in a
     -   Sustained Attention to Response Task (SART)
     -   D-KEFS (Delis-Kaplan Executive Function System)
 
-## Research Findings on Assessment Approaches
+### Research Findings on Assessment Approaches
 
 The document emphasizes several key points about neuropsychological assessment of adult ADHD:
 

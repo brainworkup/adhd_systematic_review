@@ -1,23 +1,30 @@
 library(gt)
 library(dplyr)
 
-create_table <- function(demographics_data) {
-  # Generate the gt table
-  demographics_table <- demographics_data |>
+create_table <- function(df, title, subtitle) {
+  # Generate the gt table using the provided dataframe (df)
+  gt_table <- df |>
     gt() |>
     tab_header(
-      title = md("Demographics Table for Adult ADHD Review"),
-      subtitle = md("**Neuroimaging Studies Demographics Summary**")
+      title = md(title),
+      subtitle = md(subtitle)
     ) |>
-    # Relabel columns
+    # Relabel columns using exact column names from the CSV
     cols_label(
       Study = "Study",
-      `Sample Size` = "Sample Size",
-      `Age (Mean ± SD)` = "Age (Mean ± SD)",
-      Gender = "Gender",
-      `ADHD Subtypes` = "ADHD Subtypes",
-      `Imaging Modality` = "Imaging Modality",
-      `Key Demographic Notes` = "Key Demographic Notes"
+      Sample_Size_ADHD = "Sample Size (ADHD)",
+      Age_Mean_SD_ADHD = "Age (Mean ± SD) (ADHD)",
+      Gender_ADHD = "Gender (ADHD)",
+      Sample_Size_Controls = "Sample Size (Controls)",
+      Age_Mean_SD_Controls = "Age (Mean ± SD) (Controls)",
+      Gender_Controls = "Gender (Controls)",
+      Measure_Name = "Diagnostic Measure",
+      Diagnostic_Accuracy = "Diagnostic Accuracy",
+      Sensitivity = "Sensitivity",
+      Specificity = "Specificity",
+      NPV = "Negative Predictive Value",
+      PPV = "Positive Predictive Value",
+      Notes = "Notes"
     ) |>
     # Format all columns as markdown to handle any formatting within the cells
     fmt_markdown(columns = everything()) |>
@@ -25,10 +32,5 @@ create_table <- function(demographics_data) {
     opt_table_lines()
 
   # Return the table
-  return(demographics_table)
+  return(gt_table)
 }
-
-# Example usage:
-# Assuming `demographics_data` is your dataset
-# demographics_table <- create_demographics_table(demographics_data)
-# demographics_table

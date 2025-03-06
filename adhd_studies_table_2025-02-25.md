@@ -72,6 +72,7 @@ Selectivity test
 2.  Woods et al. (2002) - Multiple neuropsych tests
 
 ## Neuroimaging Studies
+
 1. Chaim-Avancini et al. (2017) - T1-weighted MRI and DTI
 1. Amen et al. (2021) - SPECT
 1. Schneider et al. (2014) - SPECT
@@ -100,44 +101,43 @@ Selectivity test
 
 ### Performance-based 'embedded' validity indicators
 
-1. Becke et al (2023) - Comprehensive Neuropsychological Test Battery + WURS
+1. Becke et al (2023) - WURS-K, ADHS-SB, TOMM, Neuropsych Battery
 2. Berger et al (2021) - MOXO-d-CPT
-3. Finley et al. (2023) - Embedded performance validity indicators
-4. Khan et al. (2022) - Stroop Test
-5. Robinson et al. (2023) - CPT-3 validity indicators
-6. Harrison and Armstrong (2020) - TOVA
-7. Rogers et al. (2021) - WAIS-IV detection strategies
-8. Phillips et al. (2023) - RAVLT + BVMT-R
-9. Spenceley et al. (2022) - Woodcock-Johnson IV
+3. Finley et al. (2023) - Stroop, TMT, Verbal Fluency, WAIS-IV
+4. Khan et al. (2022) - Stroop
+5. Robinson et al. (2023) - CPT-3, Multiple PVT's
+6. Harrison and Armstrong (2020) - MSVT, TOVA
+7. Rogers et al. (2021) - WAIS-IV
+8. Phillips et al. (2023) - BVMT-R, RAVLT
+9. Spenceley et al. (2022) - WJ-IV
 
 ### Performance-based 'standalone' validity indicators
 
-1. Morey (2019) - Tests of Attentional Distraction (TOAD)
-2. Williamson et al. (2014) - TOMM, LMT, NV-MSVT, DMT
-3. Abramson et al (2023) - Dot Counting Test (DCT)
-4. Fuermaier et al (2016) - Embedded Figures Test
+1. Morey (2019) - TOAD
+1. Abramson et al (2023) - DCT
+1. Fuermaier et al (2016) - EFT
 
-### Symptom exaggeration rating scales
+### Rating scales for symptom exaggeration
 
-1. Aita et al. (2018) - Personality Assessment Inventory feigning
-2. Cook et al. (2016) - Conners' Infrequency Index validation
-3. Courrégé et al. (2019) - ADHD Symptom Infrequency Scale
-4. Finley et al (2024) - Clinical Assessment of Attention Deficit–Adult
-5. Harrison & Armstrong (2016) - Exaggeration Index (EI)
-6. Harrison et al. (2022) - PAI validity measures
-7. Musso et al. (2016) - PAI utility
-8. Potts et al. (2022) - Multidimensional ADHD Rating Scale
-9.  Ramachandran et al. (2019) - Subtle ADHD Malingering Screener
-10. Smith et al. (2017) - PAI feigning detection
-11. Young & Gross (2011) - MMPI-2
+1. Aita et al. (2018) - PAI, 
+1. Smith et al. (2017) - PAI feigning detection
+1. Young & Gross (2011) - MMPI-2
+1. Cook et al. (2016) - Conners' Infrequency Index validation
+1. Courrégé et al. (2019) - ADHD Symptom Infrequency Scale
+1. Finley et al (2024) - Clinical Assessment of Attention Deficit–Adult
+1. Harrison & Armstrong (2016) - Exaggeration Index (EI)
+1. Harrison et al. (2022) - PAI validity measures
+1. Musso et al. (2016) - PAI utility
+1. Potts et al. (2022) - Multidimensional ADHD Rating Scale
+1. Ramachandran et al. (2019) - Subtle ADHD Malingering Screener
  
-
-### Combined neurocog test + rating scale
+### Combined neurocognitive effort test(s) and rating scale(s)
 
 1. Sollman et al. (2010) - CAARS + TOMM, LMT, NVMST
-2. Quinn (2003) - ADHD Behav Checklist + IVA CPT
-3. Marshall et al. (2010) - WMT, CAT-A, b Test, DCT, etc
-4. Harrison et al (2007) - CAARS, Woodcock-Johnson III
+1. Quinn (2003) - ADHD Behavior Checklist, IVA-CPT
+1. Marshall et al. (2010) - Barkley RS, CAT-A, WMT, b Test, DCT, TOVA
+1. Harrison et al (2007) - CAARS, WJ-III
+1. Williamson et al. (2014) - TOMM, DMT, LMT, NV-MSVT, b Test, WAIS-IV, WJ-III
 
 ## Biomarkers
 
