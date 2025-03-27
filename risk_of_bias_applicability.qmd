@@ -1,0 +1,32 @@
+---
+format:
+  docx: default
+  typst: default
+---
+
+# ADHD Adults Diagnosis Draft Report - Risk of Bias and Applicability Assessment Summary
+
+## Risk of Bias Assessment Summary
+
+### Patient Selection Domain
+**Summary**: Most studies showed high risk of bias in patient selection due to non-consecutive or non-random sampling methods, use of case-control designs, and selective inclusion criteria that may not represent the general ADHD population seeking diagnosis.
+
+### Index Test Domain
+**Summary**: Studies frequently demonstrated high risk of bias in the index test domain due to lack of pre-specified thresholds, knowledge of reference standard results before interpreting the index test, and inconsistent application of diagnostic criteria across different assessment tools.
+
+### Reference Standard Domain
+**Summary**: Many studies exhibited high risk of bias in the reference standard domain because of variable quality in ADHD diagnosis confirmation, inconsistent application of diagnostic criteria, and potential lack of blinding to index test results when establishing the diagnosis.
+
+### Flow and Timing Domain
+**Summary**: Studies commonly showed high risk of bias in flow and timing due to inappropriate intervals between index tests and reference standards, inconsistent application of reference standards across participants, and substantial exclusions from the analysis.
+
+## Applicability Assessment Summary
+
+### Patient Applicability Domain
+**Summary**: The applicability of study populations to real-world settings was often limited by restrictive eligibility criteria, exclusion of participants with common comorbidities, and overrepresentation of specialty care or college settings compared to primary care environments.
+
+### Index Test Applicability Domain
+**Summary**: The applicability of index tests was frequently constrained by non-standard test administration procedures, use of complex analytical methods requiring specialized expertise, and involvement of highly trained research personnel not representative of typical clinical settings.
+
+### Reference Standard Applicability Domain
+**Summary**: Reference standards used in many studies had limited applicability to general practice due to ambiguous diagnostic criteria, inconsistent with real-world clinical diagnosis procedures, or insufficient description of diagnostic methodology.

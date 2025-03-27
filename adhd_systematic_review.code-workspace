@@ -1,10 +1,22 @@
 {
-	"folders": [
-		{
-			"path": "."
-		}
-	],
-	"settings": {
-		"workbench.colorTheme": "Pacific Ocean"
-	}
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "workbench.colorTheme": "Popping and Locking Black Theme",
+    "workbench.colorCustomizations": {
+      "panel.border": "#dee2fc66",
+      "sash.hoverBorder": "#dee2fc66",
+      "sideBar.border": "#dee2fc66",
+      "tab.activeBorder": "#dee2fc66",
+      "activityBar.activeBackground": "#dee2fc66",
+      "activityBar.background": "#dee2fc66",
+      "activityBar.foreground": "#15202b",
+      "activityBar.inactiveForeground": "#15202b99",
+      "activityBarBadge.background": "#f26d7f",
+      "activityBarBadge.foreground": "#15202b"
+    }
+  }
 }

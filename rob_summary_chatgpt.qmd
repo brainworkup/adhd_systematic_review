@@ -1,0 +1,23 @@
+---
+format:
+  docx: default
+  typst: default
+---
+
+**Risk of Bias Domain Summaries:**
+
+1. **Patient Selection:** This domain assessed the potential introduction of bias due to patient recruitment methods. Studies varied regarding consecutive or random sampling, with some studies potentially introducing bias due to retrospective case-control designs or inappropriate exclusions.
+
+2. **Index Test:** This domain reviewed whether test administration or interpretation could introduce bias. Key issues included non-blinded interpretation of index tests and lack of pre-specified thresholds or cut-offs.
+
+3. **Reference Standard:** The quality and unbiased interpretation of the reference standard was critical. Variability was noted in whether reference standard evaluations were blinded and consistently applied.
+
+4. **Flow and Timing:** Evaluated potential bias related to the interval between index tests and reference standards, and the consistency in applying reference standards to all participants.
+
+**Applicability Domain Summaries:**
+
+1. **Patient Applicability:** Assessed the generalizability of study populations, noting potential concerns with narrow eligibility criteria, exclusion of comorbidities, and complexity of participants compared to typical clinical populations.
+
+2. **Test Applicability:** Evaluated whether tests were administered as recommended or commonly used in clinical practice, identifying concerns with complex setups or qualifications of assessors.
+
+3. **Reference Standard Applicability:** Reviewed the clarity and clinical realism of the reference standards used, noting some studies with ambiguous or non-standard clinical practices.

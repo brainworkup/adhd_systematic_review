@@ -8,5 +8,6 @@
     ".Rhistory": true,
     ".Rproj.user": true,
     ".obsidian": true
-  }
+  },
+  "r.rpath.mac": "/usr/local/bin/R"
 }
