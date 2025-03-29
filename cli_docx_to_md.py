@@ -1,13 +1,5 @@
 #!/usr/bin/env python3
 
-
-# I'll help you create a simple CLI tool using Python to convert `.docx` files to `.md` files using Pandoc. First, make sure you have Pandoc installed on your system.
-
-
-"""
-# A simple CLI tool to convert .docx files to .md using Pandoc.
-"""
-
 import subprocess
 import argparse
 import os
